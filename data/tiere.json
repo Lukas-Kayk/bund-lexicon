@@ -1,0 +1,566 @@
+[
+  {
+    "kategorie": "Amphibien",
+    "art": [
+      {
+        "name": "Erdkröte",
+        "lat": "Bufo bufo",
+        "text": "Die unscheinbar braune Erdkröte besitzt am ganzen Körper warzige Hautdrüsen sowie zwei bohnenförmige Drüsen am Hinterteil, mit welchen sie giftige Sekrete aussondern kann. Diese dienen der Abwehr von Fressfeinden und dem Schutz der Haut. Vor dem Verschlingen zieht die Erdkröte Regenwürmer durch ihre Finger, um möglichen Schmutz abzustreifen. Diverse Insekten, aber auch Schnecken und Spinnen sind weitere Bestandteile ihrer Ernährung. ",
+        "bild": "/assets/img/Tiere/Amphibien/Erdkroete_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Bergmolch",
+        "lat": "Triturus alpestris",
+        "text": "Der Bergmolch bevorzugt gewässerreiche Wälder als Lebensraum und ernährt sich, wie auch der Teichmolch, mitunter von den eigenen Larven. Ihre charakteristisch bunte Färbung nehmen die Bergmolche nur während der Paarungszeit im Wasser an: Die Männchen sind strahlend blau gefärbt mit dunklem Fleckenmuster, die Weibchen grün und braun marmoriert. Im Gegensatz zu anderen Molcharten ist der orangefarbene Bauch der Bergmolche jedoch nicht gefleckt. Außerhalb der Paarungszeit sind sie in ihrer schlichten Landtracht gut getarnt. ",
+        "bild": "/assets/img/Tiere/Amphibien/iStock-1302442529.jpg",
+        "quelle": "istock.com/ CreativeNature_nl"
+      },
+      {
+        "name": "Springfrosch",
+        "lat": "Rana dalmatina",
+        "text": "Der Springfrosch ist die seltenste Froschart in seinem Ausbreitungsgebiet Mitteleuropa. Er ist rotbraun bis hellbraun gefärbt, hat eine spitze Schnauze und dunklere breite Streifen auf den Hinterbeinen. Ebenfalls typisch für den Springfrosch sind die beiden dunkelbraunen, dreieckigen Flecken hinter den Augen und seine schlanken, langen Beine, mit welchen er bis zu 2 Meter weit springen kann. ",
+        "bild": "/assets/img/Tiere/Amphibien/Springfrosch_Vivien Zoellner.jpg",
+        "quelle": "Vivien Zöllner"
+      },
+      {
+        "name": "Grasfrosch",
+        "lat": "Rana temporaria",
+        "text": "Wie auch andere Braunfrösche (Springfrosch, Moorfrosch) verfügt der Grasfrosch über einen dreieckigen, dunklen Schläfenfleck und Querstreifen auf den Hinterbeinen. Signifikant ist seine Zeichnung aus schwarzen Flecken an der Oberseite und die Färbung aus verschiedenen Brauntönen bis hin zu starkem Rotbraun. Da der Grasfrosch seinem Laichgewässer sehr treu ist, reicht den Männchen ein leiser Paarungsruf, ähnlich einem dumpfen Knurren oder Brummen. Der Grasfrosch ist die häufigste Art in Mitteleuropa und lebt an Land in Gebüschen, Grünland oder an Gewässerufern. ",
+        "bild": "/assets/img/Tiere/Amphibien/Grasfrosch.jpg",
+        "quelle": "Mattea Wild "
+      },
+      {
+        "name": "Europäischer Laubfrosch ",
+        "lat": "Hyla arborea",
+        "text": "Der Europäische Laubfrosch kann seine Färbung durch Erspüren der Oberflächenstruktur an seinen Aufenthaltsort anpassen. Sein sattes Hellgrün behält er deshalb nur auf einem glatten Blatt; auf texturiertem Moos wird er dunkelgrün, beim Ertasten rauer Baumrinde erscheint er braun oder grau. Abgesehen von seiner variablen Färbung ist der Europäische Laubfrosch an den beiden seitlichen „Leistenspangen“ zu erkennen: lange, dunkle Streifen, die vom Auge bis zur Leistenregion verlaufen. Mithilfe der rundlichen Haftballen an seinen Fingerspitzen kann er im Gegensatz zu anderen Froscharten auch auf Bäume und Büsche klettern. ",
+        "bild": "/assets/img/Tiere/Amphibien/Laubfrosch_Manuel Fiebrich.jpeg",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Wasserfrosch",
+        "lat": "Rana esculenta",
+        "text": "Der Wasserfrosch, auch Teichfrosch genannt, lauert auf See- oder Teichrosenblättern und unter der Wasseroberfläche, um vorbeifliegende Beutetiere direkt aus der Luft zu schnappen. Als Hybride zwischen dem Seefrosch und dem Kleinen Teichfrosch besitzt er eine genetische Eigenart, die für Mutationen verantwortlich sein kann, sogenannte „springende Gene“. Der Wasserfrosch lebt eng an vegetationsreichen Teichen und Gräben und rettet sich bei Gefahr mit einem weiten Satz ins Wasser. ",
+        "bild": "/assets/img/Tiere/Amphibien/Gruenfrosch_Teichfrosch1_Sophie Zeeb.JPG",
+        "quelle": "Sophie Zeeb"
+      }
+    ]
+  },
+  {
+    "kategorie": "Fische",
+    "art": [
+      {
+        "name": "Hecht",
+        "lat": "Esox lucius",
+        "text": "Der Hecht, eine der bekanntesten einheimischen Fischarten, besiedelt sowohl stehende als auch fließende Gewässer. Als Raubfisch lauert er regungslos zwischen Wasserpflanzen, um vorbeischwimmende Fische im Spurt zu erbeuten. Bereits Junghechte fressen alles, was sie überwältigen können, nicht selten auch Artgenossen des eigenen Jahrgangs. Markant ist seine entenschnabelförmige Schnauze mit starker Bezahnung. Die weiblichen Hechte sind mit einer Länge von bis zu 1,3 m deutlich größer als ihre männlichen Artgenossen.",
+        "bild": "/assets/img/Tiere/Fische/iStock-147741757.jpg",
+        "quelle": "istock.com/ crisod"
+      },
+      {
+        "name": "Europäischer Wels",
+        "lat": "Silurus glanis",
+        "text": "Mit einer Länge von bis zu 3 m ist der Wels die größte Süßwasser-Fischart Europas.  Er ist ein nachtaktiver Bodenfisch, der zur Nahrungssuche sein Gehör sowie seinen hochentwickelten Tast- und Geruchssinn nutzt. Zudem kann er die schwach elektrischen Felder seiner Beutetiere wahrnehmen. Auf dem Speiseplan stehen Wirbellose, Fische, Frösche, schwimmende Kleinsäuger und wasserbewohnende Vögel. Besonders gut erkennt man ihn an seinen Bartfäden: 2 Lange auf dem Oberkiefer, 4 Kürzere auf dem Unterkiefer.",
+        "bild": "/assets/img/Tiere/Fische/iStock-689507776.jpg",
+        "quelle": "istock.com/ Ekaterina Aleshinskaya"
+      },
+      {
+        "name": "Europäischer Aal",
+        "lat": "Anguilla anguilla",
+        "text": "Der Europäische Aal hat einen komplexen Lebenszyklus. Geboren wird er in der Sargassosee, einem Meeresgebiet im Atlantik östlich von Florida. Von dort treibt er etwa drei Jahre lang mit dem Golfstrom vor die europäische Küste. Erst dort nimmt er seine typische Aalgestalt an. Zunächst als durchsichtiger „Glasaal“, später als pigmentierter „Steigaal“, wandert er soweit wie möglich flussaufwärts in Süßgewässer, wo er den Großteil seines Lebens verbringt. Ist die Geschlechtsreife nach 15 -30 Jahren erreicht und sind reichlich Fettreserven angelegt, wandert der Aal über ein bis drei Jahre lang ohne Nahrungsaufnahme zurück in den Westatlantik, um dort zu laichen und danach zu sterben. ",
+        "bild": "/assets/img/Tiere/Fische/iStock-1257151934.jpg",
+        "quelle": "istock.com/slowmotiongli"
+      },
+      {
+        "name": "Karpfen",
+        "lat": "Cyprinus carpio",
+        "text": "Der Karpfen ist eine der Fischarten, die \"Gründeln\". Sie durchsuchen den Gewässergrund nach Fressbarem. Bodengrund wird ins Maul genommen, fressbare Pflanzenteile sowie Wirbellose und Plankton werden geschluckt und die unverdaulichen Reste wieder ausgespuckt. Sein Lebensraumspektrum reicht vom Brackwasserbereichen über stehende Gewässer aller Art bis hin zu Flüssen. Bevorzugt werden dabei warme, stehende oder langsam fließende Gewässer mit weichem Grund und Wasserpflanzenbewuchs.",
+        "bild": "/assets/img/Tiere/Fische/iStock-519920656.jpg",
+        "quelle": "istock.com / wrangel"
+      },
+      {
+        "name": "Flussbarsch",
+        "lat": "Perca fluviatilis",
+        "text": "Flussbarsche sind Bewohner stehender Gewässer sowie schwach bis mäßig strömende Bereiche größerer Flüsse. Sie treten oft in Trupps oder Schwärmen auf, wandeln sich im Laufe ihres Lebens immer ausgeprägter von Schwarmfischen zu Einzelgängern. Je nach Lebensraum – Freiwasser, Tiefenwasser oder Vegetationszone - bilden Barsche deutlich unterscheidbare Farbtypen aus. Flussbarsche gehören zu den Pionierfischarten. Ihr besonders klebriger Laich wird in galleartigen Bändern an Wasserpflanzen, Wurzeln, Ästen oder anderen festen Substraten abgelegt und dann aufgrund der Klebrigkeit leicht durch Wasservögel verschleppt. So besiedeln die Barsche neue Lebensräume in der Regel besonders schnell. ",
+        "bild": "/assets/img/Tiere/Fische/iStock-921104246.jpg",
+        "quelle": "istock.com / FedBul"
+      },
+      {
+        "name": "Rotfeder",
+        "lat": "Scardinius erythrophthalamus",
+        "text": "Die Rotfeder ist ein Schwarmfisch und ein typischer Bewohner stehender Gewässer. Besonders oft kommen sie in flachen Stillgewässern mit hohem Nährstoffgehalt, schlammigem Grund und reichhaltigem Makrophytenbewuchs vor. Sie halten sich gerne in kleinen Rudeln in den Pflanzenbeständen der Uferregionen nahe der Wasseroberfläche auf. Hohe Wassertemperaturen und Sauerstoffmangel werden von ihr gut bewältigt. ",
+        "bild": "/assets/img/Tiere/Fische/iStock-520013038.jpg",
+        "quelle": "istock.com / wrangel"
+      }
+    ]
+  },
+  {
+    "kategorie": "Fledermäuse",
+    "art": [
+      {
+        "name": "Großer Abendsegler",
+        "lat": "Nyctalus noctula",
+        "text": "Der große Abendsegler ist eine der größten Fledermausarten Europas. Sie ist eine typische Baumfledermaus, die ihre Tagesquartiere überwiegend in Bäumen, seltener auch in Felsspalten aufsucht. Sie nutzt jedoch auch Gebäude und findet sogar in Hochhäusern Verstecke wie Betonspalten oder Dachüberhänge. Im Vergleich zu anderen Fledermausarten fliegt der große Abendsegler in großen Höhen (10-70m).",
+        "bild": "/assets/img/Tiere/Fledermaese/Grosser Abendsegler__011.jpg",
+        "quelle": "Thomas Stephan"
+      },
+      {
+        "name": "Bechsteinfledermaus",
+        "lat": "Myotis bechtsteinii",
+        "text": "Charakteristisch für die Bechsteinfledermaus sind ihre langen, breiten, etwa 2,3 – 2,6 cm großen Ohren. Sie lebt im Sommer vorzugsweise in feuchten, alten, strukturreichen Laub- und Mischwäldern, kommt aber auch in Kiefernwäldern, Parks, Gärten und Obstwiesen vor. Ihren Winterschlaf verbringt sie in unterirdischen Anlagen wie Höhlen und Stollen, in Steinbrüchen oder stillgelegten Bergwerken und in Kellern, aber auch in hohlen Bäumen. Die Bechsteinfledermaus beherrscht den Rüttelflug und kann die Krabbelgeräusche ihrer Beutetiere auf der Vegetation wahrnehmen. ",
+        "bild": "/assets/img/Tiere/Fledermaese/A000074Bechsteinfledermaus.jpg",
+        "quelle": "Dietmar Nill"
+      },
+      {
+        "name": "Wasserfledermaus",
+        "lat": "Myotis daubentonii",
+        "text": "Ihren Beutetieren stellt die Wasserfledermaus knapp über der Gewässeroberfläche nach. Sie jagt in wenigen Zentimetern Abstand über stehenden und fließenden Gewässern nach Zuckmücken und anderen Wasserinsekten. Dieser speziellen Jagdweise verdank sie ihren Namen. Bei genauerem Hinsehen fallen ihre großen, borstenbehaarte Füße auf.",
+        "bild": "/assets/img/Tiere/Fledermaese/A_001486Wasserfledermaus.jpg",
+        "quelle": "Dietmar Nill"
+      },
+      {
+        "name": "Großes Mausohr",
+        "lat": "Myotis myotis",
+        "text": "Das Große Mausohr ist mit einer Flügelspannweite von 40 cm die größte heimische Fledermausart. Sie ist ein typischer Bewohner von großräumigen Dachböden in Kirchen, Schlössern oder anderen großen Gebäuden. Das Besetzen der Dachstühle findet meist im Sommer, und zwar von Weibchen statt. Sie bringen dort ihre Jungen zur Welt und ziehen sie auf. Um die besten Hangplätze an Balken, Mauern und im Dachgestühl wird unter den Weibchen teilweise heftig gerangelt. Für die Jagd von Käfern, vor allem auf dem Waldboden, hört das große Mausohr mit den Ohren und ortet ihre Beute nicht unbedingt über Echoortung.",
+        "bild": "/assets/img/Tiere/Fledermaese/Grosses_Mausohr__048.jpg",
+        "quelle": "Thomas Stephan"
+      },
+      {
+        "name": "Zwergfledermaus",
+        "lat": "Pipistrellus pipistrellus",
+        "text": "Zusammen mit der Mückenfledermaus ist die Zwergfledermaus die kleinste heimische Fledermausart, sie wiegt nur 5g (wie ein Stück Schokolade) und passt mit zusammengefalteten Flügeln in eine Streichholzschachtel! Außerdem ist sie eine recht anpassungsfähige Art in Bezug auf den Menschen und ist oft an Straßenlaternen beim Jagen zu beobachten. Bild: linke Fledermaus.",
+        "bild": "/assets/img/Tiere/Fledermaese/Grossƒes_Mausohr__143.jpg",
+        "quelle": "Thomas Stephan"
+      },
+      {
+        "name": "Rauhautfledermaus",
+        "lat": "Pipistrellus nathusii",
+        "text": "Die Rauhautfledermaus hat in Baumrissen, Baumhöhlen oder Felsspalten Sommerquartiere, zieht aber über den Winter nach Mittel- und Südeuropa. Das Stehenlassen von Totholz in Wäldern als Quartierangebot ist also besonders wichtig für den Schutz dieser Art.  Gelegentlich sucht sie sich jedoch Höhlen in Menschennähe, wie zum Beispiel Holzstapel oder unter Holzverkleidungen an Gebäuden. Zum Jagen werden eine vielfältige Gehölzstruktur sowie Uferbereiche bevorzugt.",
+        "bild": "/assets/img/Tiere/Fledermaese/DNA_009263Rauhautfledermaus Portrait Zaehne, Pipistrellus nathusii, Nathusius pipistrelle teeth, Pipistrelle a Nathusius.jpg",
+        "quelle": "Dietmar Nill"
+      }
+    ]
+  },
+  {
+    "kategorie": "Heuschrecken",
+    "art": [
+      {
+        "name": "Heidegrashüpfer",
+        "lat": "Stenobothrus lineatus",
+        "text": "Diese typische Magerrasenart ist im August besonders häufig zu beobachten. Wer ein trainiertes Gehör besitzt, kann ihn zudem an einem auf- und absteigenden Schwirren gut erkennen. Der Gesang kommt durch langsames, zeitlich versetztes Reiben der Hinterschenkel über die Flügel zustande. Der Heidegrashüpfer ist meist grün gefärbt und nach hinten ins rötlich-violett übergehend.",
+        "bild": "/assets/img/Tiere/Heuschreken/Heidegrashuepfer Stenobothrus lineatus_Medinger.JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Gemeiner Grashüpfer",
+        "lat": "Chorthippus parallelus",
+        "text": "Häufige Arten wie der Gemeine Grashüpfer kommen in fast allen Wiesen vor. Gräser stellen, wie bei den meisten Grashüpfern, die Nahrungsgrundlage dar. Der Gemeine Grashüpfer besitzt zwar Flügel, diese sind allerdings stark zurückgebildet, sodass die meisten Vertreter dieser Art flugunfähig bleiben. Es treten jedoch auch langflügelige Tiere auf, die bei der Neubesiedelung von Habitaten eine wichtige Rolle spielen.",
+        "bild": "/assets/img/Tiere/Heuschreken/Gemeiner Grashuepfer_Juergen Fischer.jpg",
+        "quelle": "Jürgen Fischer"
+      },
+      {
+        "name": "Westliche Beißschrecke",
+        "lat": "Platycleis albopunctata",
+        "text": "Die Westliche Beißschrecke mag trockene und heiße, blütenreiche Wiesen mit offenen Bodenstellen für die Eiablage. Als wärmeliebende Art profitiert sie vom Klimawandel und wird sich möglicherweise zukünftig weiter ausbreiten können. Sie besitzt lange Flügel und ist deshalb sehr flugtüchtig und ausbreitungsfreudig. ",
+        "bild": "/assets/img/Tiere/Heuschreken/Westliche Beißschrecke_Nathalie Tent.JPG",
+        "quelle": "Nathalie Tent"
+      },
+      {
+        "name": "Säbel-Dornschrecke",
+        "lat": "Tetrix subulata",
+        "text": "Die Säbel-Schrecke ist aufgrund ihres guten Flugvermögens eine typische Pionierart, die vegetationsfreie Bodenstellen für die Eiablage bevorzugt. An Gewässerufern entpuppen sich diese, wie auch andere Dornschreckenarten, als sehr gute Schwimmer. Stets bereit bei Gefahr abzutauchen. Im Gegensatz zu anderen Tetrix-Arten besitzt die Säbel-Dornschrecke ein sehr flaches und nahezu gerades Halsschild.",
+        "bild": "/assets/img/Tiere/Heuschreken/Saebeldornschrecke_Nathalie_Tent.JPG",
+        "quelle": "Nathalie Tent"
+      },
+      {
+        "name": "Sumpfgrille",
+        "lat": "Pteronemobius concolor",
+        "text": "Die gefährdete Sumpfgrille lebt unter anderem in mageren Feuchtwiesen, liebt wassergefüllte Schlenken und braucht nasse Stellen zur Eiablage. Als Unterscheidungsmerkmal zur Waldgrille weist sie vier statt drei Dornen an den Hinterschenkel Innen- und Außenseiten auf. Um Sumpfgrillen zu entdecken, braucht es viel Geduld, da sie sich sehr flink und springend fortbewegen. ",
+        "bild": "/assets/img/Tiere/Heuschreken/Sumpfgrille_Nathalie_Tent.JPG",
+        "quelle": "Nathalie Tent"
+      },
+      {
+        "name": "Große Schiefkopfschrecke",
+        "lat": "Ruspolia nitidula",
+        "text": "Ähnliche Vorlieben wie die Sumpfgrille hat die aus dem Süden eingewanderte Schiefkopfschrecke. Neben hoher Feuchtigkeit und Wärme benötigt sie vertikale Strukturen, hohe Gräser oder Schilf. Sie lässt sich hervorragend von anderen Arten durch ihre lange, schlanke Gestalt und ihren keilförmigen Kopf unterscheiden. Besonders auffällig sind die gelben Mandibeln, die als Mundwerkzeuge zum Abbeißen der Nahrung dienen. Die Schiefkopfschrecke gibt in der Dämmerung Geräusche wie ein Hochspannungsstromkabel von sich – nur viel leiser. ",
+        "bild": "/assets/img/Tiere/Heuschreken/Schiefkopfschrecke_Nathalie Tent.JPG",
+        "quelle": "Nathalie Tent"
+      }
+    ]
+  },
+  {
+    "kategorie": "Käfer",
+    "art": [
+      {
+        "name": "Soldatenkäfer",
+        "lat": "Cantharis fusca",
+        "text": "Schwarz und rot waren früher typische Farbkombinationen bei militärischen Uniformen, weshalb der Soldatenkäfer so genannt wurde. Er kommt in fast ganz Europa vor und ist zwischen Mai und Juni häufig in Gebüschen und Gräsern am Mindelsee zu finden. Obwohl er sich überwiegend räuberisch von kleinen Insekten ernährt, gehören Nektar, Pollen, Knospen und Blätter auch zu seiner Ernährung. Seine Larven leben auch räuberisch von Schnecken, Würmern und Insekten auf dem Boden. ",
+        "bild": "/assets/img/Tiere/Kaefer/Soldatenkaefer_Sophie Zeeb.JPG",
+        "quelle": "Sophie Zeeb"
+      },
+      {
+        "name": "Maiglöckchenhähnchen",
+        "lat": "Lilioceris merdigera",
+        "text": "Die schönen Maiglöckchenhähnchen sind häufig auf den Wiesen und in der Nähe der Wälder des Mindelsees zu finden. Zwischen April und September kann man sie an Lilien- und Lauchgewächsen beobachten, wo sie sich von den Blättern der Pflanzen ernähren. Deren Larven ernähren sich auch von Blättern und schützen sich vor Fressfeinden, indem sie sich eine dunkle Hülle aus ihrem eigenen Kot zur Abwehr bauen. ",
+        "bild": "/assets/img/Tiere/Kaefer/Maigloeckchenkaefer_Irene Warmuth.png",
+        "quelle": "Irene Warmuth"
+      },
+      {
+        "name": "Blaugrüner Schenkelkäfer",
+        "lat": "Oedemera nobilis",
+        "text": "Die Blaugrünen Schenkelkäfer sichtet man im Frühling und Sommer am einfachsten auf Wiesen, an Hecken und an Waldrändern, wo sie auf verschiedensten Blüten sitzen. Die tagaktiven Käfer ernähren sich hauptsächlich von Blütenpollen und gelegentlich auch von Nektar. Die Männchen haben glänzende, breite Hinterschenkel, die aber deren Flugfähigkeit nicht beeinträchtigt. Außerdem entwickeln sich die Larven in abgestorbenen Pflanzenstängeln.",
+        "bild": "/assets/img/Tiere/Kaefer/Blaugruener_Schenkelksefer_Kadiatou Schiffer.jpg",
+        "quelle": "Kadiatou Schiffe"
+      },
+      {
+        "name": "Zottiger Rosenkäfer",
+        "lat": "Tropinota hirta",
+        "text": "Den ausgewachsenen Zottigen Rosenkäfer kann man am besten zwischen den Monaten April bis Juni beobachten. Zur Larvenentwicklung benötigt der Käfer im Juni und Juli eine Durchschnittstemperatur von 19°C und hat dementsprechend ein Verbreitungsgebiet von Südeuropa über Mitteleuropa bis in den Nahen Osten. Die wärmeliebende Art ernährt sich am liebsten von Blütenpollen gelbblühender Arten und gilt in Mitteleuropa als „gefährdet.“",
+        "bild": "/assets/img/Tiere/Kaefer/Zottiger_Rosenkaefer-Sophie Zeeb.JPG",
+        "quelle": "Sophie Zeeb"
+      },
+      {
+        "name": "Zweifleckiger Zipfelkäfer",
+        "lat": "Malachius bipustulatus",
+        "text": "Zweifleckige Zipfelkäfer haben einen metallisch-grün glänzenden Panzer mit auffälligen, roten Flecken auf den Flügeldecken.  Sie sind tagsüber vor allem auf Wiesen zu finden, wo sie die Pollen von Blüten und Gräsern essen. Die Männchen produzieren dort besondere Sekrete für die Weibchen, die so angelockt werden und nach der Einnahme des Sekretes paarungsbereit sind. Die jungen Larven leben in altem Holz auf dem Boden und jagen dort nach Insekten.  ",
+        "bild": "/assets/img/Tiere/Kaefer/Zweifleckige-Zipfelkaefer-Sophie Zeeb.JPG",
+        "quelle": "Sophie Zeeb"
+      },
+      {
+        "name": "Hirschkäfer",
+        "lat": "Lucanus cervus",
+        "text": "Der Hirschkäfer ist ein deutschlandweit stark gefährdeter Käfer, der auf alte Laubbaumbestände mit Totholz angewiesen ist. Die oberen Mundwerkzeuge der Männchen sind zu geweihartigen Zangen umgebildet, welche entweder dazu genutzt werden, mit Rivalen um ein Revier zu kämpfen oder um die Weibchen bei der Paarung festzuhalten. Hirschkäfer ernähren sich von Baumsaft, welcher aus verwundeten Stellen des Baumes austritt. Die Verletzungsstellen werden oft auch von Bakterien besiedelt, welche den im Baumsaft enthaltenen Zucker zu Alkohol vergären. Trinken die Hirschkäfer den mit Alkohol angereicherten Baumsaft, fallen sie berauscht zu Boden und zappeln bis sie wieder ausgenüchtert sind.",
+        "bild": "/assets/img/Tiere/Kaefer/iStock-1211281114.jpg",
+        "quelle": "istock.com / JMrocek"
+      }
+    ]
+  },
+  {
+    "kategorie": "Libellen",
+    "art": [
+      {
+        "name": "Blauflügel-Prachtlibelle",
+        "lat": "Calopteryx virgo",
+        "text": "Auf den ersten Blick erinnert sie aufgrund ihres Flugverhaltens und der schillernder Flügelfarbe an einen Schmetterling. Die Blauflügel-Prachtlibelle ist eine der größten Kleinlibellenarten und benötigt saubere, relativ niedrig temperierte Bachläufe mit einer naturnahen Ufervegetation. Während die Männchen gut an der namensgebenden blauen Flügelfärbung zu erkennen sind, sind die Weibchen durchscheinend bronzefarben. ",
+        "bild": "/assets/img/Tiere/Libellen/Blaufluegel-Prachtlibelle_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Feuerlibelle",
+        "lat": "Crocothemis erythraea",
+        "text": "Die ursprünglich nur im Mittelmeerraum weit verbreitete Feuerlibelle ist heute eine häufige Großlibellenart. Beim reifen Männchen ist der gesamte Körper, einschließlich der Augen und der Stirn, leuchtend feuerrot. Sie hält sich weniger an den Ufern großer Seen auf, sondern sucht kleinere Teiche und Tümpel, aber auch breitere Gräben.",
+        "bild": "/assets/img/Tiere/Libellen/Feuerlibelle_Manuel Fiebrich.jpg",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Kleine Königslibelle",
+        "lat": "Anax parthenope",
+        "text": "Sie besiedelt Abbaugewässer, Seen und Teiche mit großer freier Wasserfläche und Schwimmblattzonen. Beide Geschlechter unterscheiden sich nur wenig und sind an einer auffallenden gelben Querbinde an der Basis vom zweiten Segment gut zu erkennen. Die Eiablage erfolgt meist im Tandem. Dabei packt das Männchen mit seinen Hinterleibsanhängen das Weibchen am Kopf, am Hinterrand der Augen, und begleitet es bis zur Eiablage.",
+        "bild": "/assets/img/Tiere/Libellen/Kleine Koenigslibelle_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Blaue Federlibelle ",
+        "lat": "Platycnemis pennipes",
+        "text": "Zur Gruppe der Federlibellen gehören vier in Europa vorkommende Arten. Typisch für diese Gruppe sind die flächig verbreiteten Mittel- und Hinterschienen an den Beinen. Bei der Eiablage hält das Männchen das Weibchen die gesamte Zeit über am Genick fest. Sie tauchen gemeinsam unter Wasser und können so im Tandem bis zu 1 Meter tief tauchen und bis zu 70 Minuten unter Wasser bleiben. Um die beiden Körper bildet sich beim Tauchgang eine Luftblase, womit sie sich eine Zeit lang mit Sauerstoff versorgen können. Die Eier können dann auch besonders trockene Phasen überstehen. ",
+        "bild": "/assets/img/Tiere/Libellen/Blaue Federlibelle_Manuel Fiebrich.jpg",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Zarte Rubinjungfer",
+        "lat": "Ceriagrion tenellum",
+        "text": "Die Zarte Rubinjungfer gehört zu den selteneren Libellenarten in Baden-Württemberg. Die Art kann durch ihre rote Färbung nur mit der „Frühen Adonislibelle“ verwechselt werden. Die Zarte Rubinjungfer hat helle, gelblich bis rötliche Beine, im Gegensatz zu ihrer Verwechslungsart, die schwarze Beine besitzt. Ein weiteres sicheres Unterscheidungsmerkmal sind die rot gefärbten Flügelmale (Pt = Pterostigmata). Sie bevorzugt Quellmoore, Quellrinnsale und ist in wärmeren Gebieten auch an größeren Seen zu finden.",
+        "bild": "/assets/img/Tiere/Libellen/Zarte Rubinjungfer_Manuel Fiebrich.jpg",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Großer Blaupfeil",
+        "lat": "Orthetrum cancellatum",
+        "text": "Diese Libellenart gehört zur besonders artenreichen Gruppe der Segellibellen. Ihnen fehlen die metallischen Farben, vorherrschend sind Rot, Gelb, Braun und Schwarz. Der Große Blaupfeil ist mit 45 bis 50 mm Körperlänge relativ groß und hat eine dichte, blaue Bereifung auf den ersten Abdominalsegmenten. Die Eiablage erfolgt immer ohne Begleitung durch das Männchen.  ",
+        "bild": "/assets/img/Tiere/Libellen/Großer Blaupfeil_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      }
+    ]
+  },
+  {
+    "kategorie": "Reptilien",
+    "art": [
+      {
+        "name": "Ringelnatter",
+        "lat": "Natrix natrix",
+        "text": "Die Ringelnatter ist gut an ihren beiden gelben bis orangefarbenen Nackenflecken zu erkennen, welche sich von dem sonst eher dunklen Körper sichtbar abheben. Sie ist an Orten mit vielfältiger Vegetation, vor allem in Mittel- und Osteuropa, zu finden und ernährt sich überwiegend von Amphibien wie Fröschen und Molchen. Die Ringelnatter ist ein sehr scheues Tier. Sie besitzt die Fähigkeit, durch bewusstes Vergrößern und Verkleinern ihrer Körperoberfläche ihre Körpertemperatur an die vorhandene Umgebung anzupassen.",
+        "bild": "/assets/img/Tiere/Reptilien/Ringelnatter, Natrix natrix (Dirk Mertens).jpg",
+        "quelle": "Dirk Mertens"
+      },
+      {
+        "name": "Schlingnatter",
+        "lat": "Coronella austriaca",
+        "text": "Die Schling- oder auch Glattnatter ist in Europa und Westasien weit verbreitet und wie auch die Ringelnatter eine ungiftige und für den Menschen harmlose Schlangenart. Ihren Körper von weniger als einem Meter Gesamtlänge wickelt sie vor dem Verschlingen um größere Beutetiere, um diese zu ersticken. Ihre braun bis graue Färbung und ihr ausgeprägtes Fleckenmuster dienen als Tarnung und schützt die Schlingnatter vor möglichen Fressfeinden.",
+        "bild": "/assets/img/Tiere/Reptilien/Schlingnatter_Jochen Mueller.jpg",
+        "quelle": "Jochen Müller"
+      },
+      {
+        "name": "Blindschleiche",
+        "lat": "Anguis fragilis",
+        "text": "Bei der Blindschleiche handelt es sich um eine Echsenart mit auffallend glänzender, glatter Schuppenhaut, deren Vorder- und Hinterläufe vollständig zurückgebildet sind. Wegen ihrer fehlenden Extremitäten wird sie oft mit Schlangen verwechselt, unterscheidet sich aber unter anderem durch ihre beweglichen Augenlider und die fehlende Oberlippenlücke. Die Blindschleiche ist eine der häufigsten Reptilien; in Europa reichen ihre Bestände bis in den hochalpinen Bereich.",
+        "bild": "/assets/img/Tiere/Reptilien/Blindschleiche_Roland_Kalb.jpg",
+        "quelle": "Roland Kalb"
+      },
+      {
+        "name": "Waldeidechse",
+        "lat": "Lacerta vivipara",
+        "text": "Die meist braune bis graue Waldeidechse, auch Berg- oder Mooreidechse genannt, gilt als die erfolgreichste Reptilienart der Welt. Zur Entwicklung der Jungtiere im Mutterleib nutzen weibliche Waldeidechsen die Sonnenwärme und wandern dazu mit dem Lauf der Sonne. Damit hat sie auch ihr einzigartig hohes Vordringen in nördliche Gebiete und ihre weitläufige Verbreitung erreicht. ",
+        "bild": "/assets/img/Tiere/Reptilien/Waldeidechse-Sophie Zeeb.jpg",
+        "quelle": "Sophie Zeeb"
+      },
+      {
+        "name": "Zauneidechse",
+        "lat": "Lacerta agilis",
+        "text": "Die kräftige Zauneidechse findet man in Magerbiotopen wie trockenen Waldrändern, Heideflächen und Steinbrüchen. Ihre Grundfarbe ist braun, weitere Farben und Muster können jedoch stark variieren. Beispielsweise nehmen männliche Tiere während der Paarungszeit im Frühling und Sommer (mit Ausnahme des Rückens) eine leuchtend grüne Farbe an.",
+        "bild": "/assets/img/Tiere/Reptilien/Zauneidechse_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      },
+      {
+        "name": "Europäische Sumpfschildkröte ",
+        "lat": "Emys orbicularis",
+        "text": "Die Europäische Sumpfschildkröte ist die einzige in Deutschland heimische Schildkrötenart. Am Mindelsee werden zwar äußerst selten einzelne Tiere entdeckt, diese stammen jedoch nicht aus einem ursprünglichen Vorkommen, sondern wurden vermutlich von Besuchern ausgesetzt. Europäische Sumpfschildkröten sind sehr scheu, sonnen sich bevorzugt auf Totholz und haben aufgrund ihres Panzers, der sie vor Fressfeinden schützt, ab ihrem ersten Lebensjahr kaum natürliche Feinde. ",
+        "bild": "/assets/img/Tiere/Reptilien/Europaeische Sumpfschildkroete_Manuel Fiebrich.JPG",
+        "quelle": "Manuel Fiebrich"
+      }
+    ]
+  },
+  {
+    "kategorie": "Säugetiere",
+    "art": [
+      {
+        "name": "Eurasisches Eichhörnchen",
+        "lat": "Sciurus vulgaris",
+        "text": "Das Eichhörnchen hat einen unverkennbaren fast körperlangen, buschig behaarten Schwanz, der als Steuer- und Ruderhilfe sowie zur Kommunikation mit Artgenossen dient. Eichhörnchen gibt es in verschiedenen Farbvariationen und auch innerhalb einer Population kann es Individuen mit fuchsrotem, schokobraunem oder rein schwarzem Fell geben. Der Lebensraum der Eichhörnchen ist stark vom Angebot an energiereichen Baumsamen und -früchten abhängig. Sie können daher fast alle Wälder und Baumbestände mit ausreichender Menge an Nahrung besiedeln. Das heimische Eichhörnchen bekommt jedoch immer mehr Konkurrenz von dem aus Nordamerika stammenden Grauhörnchen (Sciurus carolinensis), welches sich zunehmend in Europa ausbreitet.",
+        "bild": "/assets/img/Tiere/Saeugetiere/Eichhoernchen_Zoellner.JPG",
+        "quelle": "Vivien Zöllner"
+      },
+      {
+        "name": "Feldhase",
+        "lat": "Lepus europaeus",
+        "text": "Mit seinen speziellen, seitlich stehenden Augen ist der Feldhase zwar kurzsichtig, hat mit bis zu 360 Grad jedoch den perfekten Überblick. Aufgrund seiner sehr langen Hinterläufe sieht man den Hasen mit seiner typischen „Hoppel“-Bewegung über die Felder laufen. Bei Gefahr ist er ein absoluter Spitzensportler, da er mehrere Meter weit springen und bis zu 80 km/h schnell laufen kann. Durch das Schlagen von Haken verwirrt er seine Verfolger. Zuhause ist der Feldhase vor allem auf offenen Flächen mit Rundumsicht oder Brachland. Feldhasen sind standorttreu und behalten ihr Revier ein Leben lang, durch die Intensivierung der Landwirtschaft sind seine Lebensräume jedoch bedroht.",
+        "bild": "/assets/img/Tiere/Saeugetiere/hare-5408652_theotherkev.jpg",
+        "quelle": "Theo Therkev"
+      },
+      {
+        "name": "Rotfuchs",
+        "lat": "Vulpes vulpes",
+        "text": "Die Redewendung \"Schlau wie ein Fuchs\" hat ihren Ursprung in der Fähigkeit der Füchse, genau zu wissen, wie sie in unterschiedlichsten Umgebungen am besten überleben und an Nahrung kommen. Auch in der Stadt ist der Fuchs anzutreffen, wo er seine Nahrung vor allem in Abfallbehältern findet. In der Natur kommt der Fuchs in der Dämmerung und Nacht zur Jagd aus seinem Bau, in welchem er in losen Familienbänden mit anderen Füchsen zusammenwohnt. Die Jungen der Füchse (4 bis 6 Stück) werden im Frühling im Bau aufgezogen und verlassen in einem Alter von etwa einem Monat zum ersten Mal den Fuchsbau. In Deutschland galt der Fuchs lange als Überträger des Tollwuterregers; nachdem in seinen Lebensräumen jedoch Köder mit Tollwut-Impfstoff ausgelegt wurden, sind die in Deutschland lebenden Füchse heute tollwutfrei.",
+        "bild": "/assets/img/Tiere/Saeugetiere/iStock-1283319113.jpg",
+        "quelle": "istock.com / JMrocek"
+      },
+      {
+        "name": "Europäischer Dachs",
+        "lat": "Meles meles",
+        "text": "Den Europäischen Dachs trifft man in der Regel nur nachts an. Eine markante schwarz-weiße, längsgestreifte Gesichtsmaske kennzeichnet den Europäischen Dachs und suggerieren anderen Tieren seine Stärke und eine mögliche Bedrohung. Der Dachs lebt nicht wie oft angenommen als Einzelgänger, sondern in Gruppen, Jungtiere spielen auch mit anderen Tieren wie Füchsen. Der Dachs lebt in unterirdischen Bauten, sogenannte Dachsburgen, mit weitverzweigten Gangsystemen und Höhlen. Dachse sind allgemein recht still, dennoch können sie eine große Bandbreite an Lauten, wie Quieken, Fauchen, Schnaufen und Seufzen von sich geben.",
+        "bild": "/assets/img/Tiere/Saeugetiere/Dachs_iStock-170437062_DamianKuzdak.jpg",
+        "quelle": "istock.com / Damian Kuzdak"
+      },
+      {
+        "name": "Wildschwein",
+        "lat": "Sus scrofa",
+        "text": "Charakteristisch für Wildschweine ist ihr Haarkleid aus langen, steifen und am Ende oft gespaltenen Borsten. Aufgrund seiner dunklen Färbung wird das Wildschwein in der Jägersprache auch als „Schwarzwild“ bezeichnet. Wildschweine sind in weiten Teilen Mitteleuropas noch heimisch. Sie profitieren von Landwirtschaft, vor allem von expandierendem Mais oder Kartoffelanbau, können auf ihrer Nahrungssuche jedoch erhebliche Schäden für Landwirte sowie für Förster im Wald anrichten. Sie ernähren sich unter anderem von Wurzeln und Früchten. Wildschweine sind recht wehrhafte Tiere, gerade wenn sie Jungtiere („Frischlinge“) haben. Bei einer Begegnung in der freien Natur flüchten sie allerdings meist vor dem Menschen.",
+        "bild": "/assets/img/Tiere/Saeugetiere/iStock-490283102.jpg",
+        "quelle": "istock.com / Neil_Burton"
+      },
+      {
+        "name": "Europäisches Reh",
+        "lat": "Capreolus capreolus",
+        "text": "Als Lebensraum bevorzugt das Europäische Reh Wald- und Buschland und lebt zumeist allein. Nur zu Beginn des Herbstes schließen sich die Rehe zu kleinen Verbänden zusammen. Rehe sind sehr schreckhafte Tiere, wobei ihre Schrecklaute dem Bellen eines Hundes ähnelt. Sie orientieren sich vorwiegend über den Geruchssinn und können sich anhand ihrer Geruchsfährten individuell erkennen. Menschliche Witterungen können sie auf bis zu 300 Metern wahrnehmen und haben somit einen besseren Geruchsinn als Hunde. Rehe sind in Deutschland weit verbreitet, jedoch sind Verletzungen oder Tode von Rehkitzen durch die Grünlandmahd ein häufiges Problem.",
+        "bild": "/assets/img/Tiere/Saeugetiere/iStock-1124546863.jpg",
+        "quelle": "istock.com / JMrocek"
+      }
+    ]
+  },
+  {
+    "kategorie": "Schmetterlinge",
+    "art": [
+      {
+        "name": "Kleiner Fuchs",
+        "lat": "Aglais urticae",
+        "text": "Der Kleine Fuchs ist ein sehr häufig anzutreffender Edelfalter. Er bewohnt alle Bereiche des Offenlandes bis in die Waldränder. Innerhalb eines Jahres gibt es 3 Faltergenerationen, von denen die letzte teilweise auf Dachböden oder in Mäuselöchern überwintert. Eier werden in kleinen Häufchen von bis zu 200 Stück an der Blattunterseite von Brennnesseln befestigt, welche den Raupen als Nahrung dienen.  Die Puppe des Kleinen Fuchses zeigt die für Edelfalter typischen metallisch glänzenden Flecken. ",
+        "bild": "/assets/img/Tiere/Schmetterling/P1340625 Kleiner Fuchsfalter VM (3).JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Aurorafalter",
+        "lat": "Anthocharis cardamines",
+        "text": "Der Aurorafalter gehört zur Familie der Weißlinge. Das Männchen hat eine breite orangefarbene Bande auf dem Vorderflügel, die bei dem Weibchen fehlt. Auf der Unterseite der Hinterflügel haben jedoch beide ein unregelmäßig grau-grünes Muster, das die Aurorafalter von anderen Weißlingen unterscheidet. Im Mai heftet das Weibchen meist ein Ei an die Blätter der Schaumkräuter (Cardamine), den Futterpflanzen der Raupen. Von dem Namen der Futterpflanzen leitet sich der lateinische Artname ab. ",
+        "bild": "/assets/img/Tiere/Schmetterling/P1240231 Aurorafalter (18).JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Braunes Waldvögelchen/ Brauner Waldvogel/ Schornsteinfeger ",
+        "lat": "Aphantopus hyperantus",
+        "text": "Dieser Schmetterling kommt in vielen verschiedenen Lebensräumen vor, von mäßig trockenen bis feuchten Biotopen. Ausschließlich mehrmals gemähte Flächen werden gemieden. Das Weibchen wirft die nicht haftenden Eier im langsamen und niedrigen Flug über Grasland ab. Die Raupen ernähren sich von zahlreichen Süß- und Sauergräsern. ",
+        "bild": "/assets/img/Tiere/Schmetterling/P1030734 Schornsteinfeger Paarung (4).JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Gitterspanner",
+        "lat": "Chiasmia clathrata",
+        "text": "Die dunkle Flügeläderung verleiht dem Falter ein Gittermuster, welches namensgebend für diesen tagaktiven Nachtfalter ist. Die Art ist im Offenland weit verbreitet und die Falter sind von Mitte April bis Mitte August an verschiedensten Blütenarten zu beobachten. Die Raupen ernähren sich von Klee- und Luzernen- Arten.",
+        "bild": "/assets/img/Tiere/Schmetterling/Gitterspanner_NT.JPG",
+        "quelle": "Nathalie Tent"
+      },
+      {
+        "name": "Großes Ochsenauge",
+        "lat": "Epinephele jurtina",
+        "text": "Die namensgebenden dunklen Augenflecken dieses braun gefärbten Tagfalters treten variabel auf und führen Fressfeinde geschickt in die Irre. Das große Ochsenauge kommt besonders auf trockenen bis mäßig frischen Graslandbiotopen vor. Die Falter ernähren sich von dem Nektar meist violetter Blüten, wohingegen dessen Raupen hauptsächlich Süßgräser bevorzugen. Die Vielseitigkeit und Flexibilität bei der Raupen- und der Falternahrung sorgen dafür, dass das Große Ochsenauge auch heute noch zu den häufigeren Tagfaltern zählt.",
+        "bild": "/assets/img/Tiere/Schmetterling/Großes Ochsenauge_2008_Markus_Koch.JPG",
+        "quelle": "Markus Koch"
+      },
+      {
+        "name": "Himmelblau- Bläuling",
+        "lat": "Lysandraa bellargus ",
+        "text": "Nur die Männchen der Bläulinge erscheinen schillernd blau, die Weibchen haben eine unscheinbare braune Färbung. Sie ernähren sich von Hufeisenklee und der Bunten Kronwicke und werden oft von Ameisen besucht, die einen von der Raupe abgesonderten süßen Saft naschen. Im Gegenzug leistet die Ameise Schutz gegen Fressfeinde. Der Himmelblau- Bläuling kommt vor allem im Bergland auf sonnigen, mageren Wiesen und Trockenhängen in Höhen von 100 bis 2000m vor.",
+        "bild": "/assets/img/Tiere/Schmetterling/Blaeuling_himmelblau_NT (4).JPG",
+        "quelle": "Nathalie Tent"
+      }
+    ]
+  },
+  {
+    "kategorie": "Schnecken",
+    "art": [
+      {
+        "name": "Weinbergschnecke",
+        "lat": "Helix pomatia",
+        "text": "Mit einer Körpergröße von 10 cm ist die Weinbergschnecke die größte an Land lebende Gehäuseschnecke in Mitteleuropa und kann mindestens 20 Jahre alt werden. Trotz ihres Namens kommt sie nicht nur auf Weinbergen vor, sondern auch in lichten Gebüschen am Wald- und Wegesrand, wo sie abends auf Nahrungssuche kriecht. Die reinen Pflanzenfresser gelten besonders in Frankreich als Delikatesse und sind durch ehemals professionelles Sammeln selten geworden. Aus diesem Grund ist die Art jetzt nach der Bundesartenschutzverordnung geschützt. ",
+        "bild": "/assets/img/Tiere/Schnecken/Weinbergschnecke_Sz.JPG",
+        "quelle": "Sophie Zeeb"
+      },
+      {
+        "name": "Gemeine Bernsteinschnecke",
+        "lat": "Succinea putris",
+        "text": "Das wunderschöne bernsteingelbe Gehäuse der Bernsteinschnecke hat 3-4 Windungen und kann bis zu 15 mm groß werden. Sie lebt häufig auf feuchtem Laub oder an Pflanzenstängeln in feuchten Hochstaudenfluren und Wiesen, Mooren oder in der Nähe sumpfiger Ufer. Obwohl sie zu der Unterordnung der Landlungenschnecke gehört, kann sie für eine längere Zeit Unterwasser überleben, was ihr hilft, wenn sie versehentlich mal ins Wasser fällt. Den Winter verbringt sie unter Laub oder in lockerer Erde.",
+        "bild": "/assets/img/Tiere/Schnecken/Succinea_putris_DSC01830_copyright_Ira_Richling.jpg",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Weitgenabelte Kristallschnecke",
+        "lat": "Vitrea contracta",
+        "text": "Das glasige und flache Gehäuse der Weitgenabelten Kristallschnecke ist mit seiner Größe von 1,8 – 2,5 mm sehr klein. Die Art lebt sehr verborgen im Bodenstreu und in lockerer Erde von trockenwarmen Wäldern, Wiesen und Gebüschen, meist auf Kalk. Am Mindelsee hat sie ihr Hauptvorkommen im Buchenwald an der Mooshalde.",
+        "bild": "/assets/img/Tiere/Schnecken/Vitrea_contracta_IMG_4393_copyright_Ira_Richling.jpg",
+        "quelle": "Julia Voigtländer"
+      },
+      {
+        "name": "Glatte Schließmundschnecke",
+        "lat": "Cochlodina laminata",
+        "text": "Diese typische Buchenwaldschnecke ist in Europa weit verbreitet und bevorzugt überwiegend schattige, meist feuchte Lebensräume in Laub-, Misch- und Nadelwälder. Dort leben die Schecken in Kolonien am Boden, unter Sträuchern, Laubstreu oder Moosen. Bei Regen steigen sie mit ihrem 15 mm langem Gehäuse häufig an Baumstämmen oder an feuchten Mauern hoch. Obwohl die Glatte Schließmundschecke sich am liebsten von welken Pflanzenteilen ernährt, sind Pilze, Algen und Moose auch gelegentlich auf ihrem Speiseplan. ",
+        "bild": "/assets/img/Tiere/Schnecken/Cochlodina_laminata_IMG_0403_copyright_Ira_Richling.jpg",
+        "quelle": "Ira Richling"
+      },
+      {
+        "name": "Schwarze Wegschnecke",
+        "lat": "Arion ater",
+        "text": "Die meist tiefschwarze Nacktschnecke ist eine in Nordeuropa weit verbreitete Art und wird 5 – 13 cm lang. Selten ist die überwiegend nachtaktive Schwarze Wegschnecke aber auch dunkelbraun oder grau. Ihr bevorzugter Lebensraum umfasst feuchte Wälder, Wiesen und Moore, wo sie sich sowohl von welken und frischen Pflanzen als auch von Aas ernähren. Aber Vorsicht: Die meisten Nacktschnecken sind allein durch äußerliche Merkmale schwer zu unterscheiden. ",
+        "bild": "/assets/img/Tiere/Schnecken/Arion_ater_Warmuth.jpg",
+        "quelle": "Irene Warmuth"
+      },
+      {
+        "name": "Riemen-Tellerschnecke",
+        "lat": "Bathyomphalus contortus",
+        "text": "Die Riemen-Tellerschnecke ist die zweithäufigste Schneckenart am Mindelsee und ist generell in Baden-Württemberg auch eine weit verbreitete Art. Sie ist durch ihr relativ hohes und extrem eng aufgewundenes Gehäuse unverwechselbar. Trotz einer Breite von ca. 6 mm hat die Tellerschnecke 7-8 Windungen. Sie liebt außerdem pflanzenreiche stehende und fließende Gewässer. ",
+        "bild": "/assets/img/Tiere/Schnecken/Bathyomphalus_contortus_IMG_1000_copyright_Ira_Richling.jpg",
+        "quelle": "Irene Warmuth"
+      }
+    ]
+  },
+  {
+    "kategorie": "Spinnen",
+    "art": [
+      {
+        "name": "Gerandete Jagdspinne",
+        "lat": "Dolomedes fimbriatus",
+        "text": "In Mooren, Feuchtwiesen und Bruchwäldern lebt die Gerandete Jagdspinne, welche auf und im Wasser Jagd auf Insekten sowie seltener auch kleine Fische und Kaulquappen macht. Ausgewachsen ist sie mit bis zu 2,5 Zentimetern Körperlänge die größte heimische Spinne in Deutschland. Aktuell ist die Gerandete Jagdspinne durch Verbuschung und Entwässerung ihrer Lebensräume leider ernsthaft gefährdet.",
+        "bild": "/assets/img/Tiere/Spinnen/Gerandete_Jagdspinne_Sophie_Zeeb.JPG",
+        "quelle": "Sophie_Zeeb"
+      },
+      {
+        "name": "Wespenspinne",
+        "lat": "Argiope bruennichi",
+        "text": "Die Wespenspinne gehört zur Familie der Radspinnen (Araneidae) und kommt in sonnigen Gebieten mit niedriger Vegetation vor. Sie spannt ein radförmiges Netz mit einem zickzackförmigen Band aus Netzmaterial in der Netzmitte („Nabe“). Ihr Netz nutzt die Wespenspinne jedoch nicht nur zum Fangen von Beutetieren, sondern auch zur Abschreckung von Fressfeinden: Bei Gefahr versetzt sie das Netz in schnelle, schwingende Bewegungen. ",
+        "bild": "/assets/img/Tiere/Spinnen/Wespenspinne2_Verena Medinger.jpg",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Vierfleck-Kreuzspinne",
+        "lat": "Araneus quadratus",
+        "text": "Die markanten Radnetze der Vierfleck-Kreuzspinne sind dicht über den Boden gespannt und verfügen über eine Fangspirale mit Klebtropfen. Am häufigsten ist diese Spinne auf langgrasigen, verkrauteten Wiesen anzutreffen. Ihre Grundfärbung ist von fast weiß über kirschrot bis hin zu dunkelbraun sehr unterschiedlich, dennoch ist die Vierfleck-Kreuzspinne anhand ihres Zeichnungsmusters identifizierbar; das vordere Fleckenpaar bildet mit den weißen Längsflecken ein Kreuz. ",
+        "bild": "/assets/img/Tiere/Spinnen/VierfleckKreuzspinne_Steffen Ehrmann (5).JPG",
+        "quelle": "Steffen Ehrmann"
+      },
+      {
+        "name": "Veränderliche Krabbenspinne",
+        "lat": "Misumena vatia",
+        "text": "Durch Einlagern, Verlagern sowie Ausscheiden von gelbem Farbstoff kann eine adulte Veränderliche Krabbenspinne ihre Farbe dem Untergrund anpassen. So kann sie auf Blüten und Blättern leuchtend gelb, grün oder sogar weiß erscheinen, um dort auf vorbeikommende Honigbienen, Schwebfliegen und Schmetterlinge zu lauern. Männchen weisen am Abdomen zusätzlich eine ausgedehnte dunkelbraune Zeichnung auf, Weibchen zwei rote Längsstreifen.",
+        "bild": "/assets/img/Tiere/Spinnen/Veraenderliche_Krabbenspinne_Steffen_Ehrmann.JPG",
+        "quelle": "Steffen Ehrmann"
+      },
+      {
+        "name": "Gebänderte Wolfspinne",
+        "lat": "Pardosa amentata",
+        "text": "Die Dunkle oder Gebänderte Wolfspinne bewohnt feuchte bis leicht trockene Habitate mit unterschiedlicher Vegetation und macht dort Jagd auf Gliederfüßer wie Krebstiere, Insekten und Spinnentiere. Wie auch andere Wolfspinnen ist sie ein freijagender Räuber und kann sogar auf der Wasseroberfläche laufen. Tagsüber sonnt sie sich auf großen Blättern, wo frühjährlich männliche Wolfspinnen mit heftigen Bewegungen ihrer Pedipalpen (Tastern) um die Weibchen werben.",
+        "bild": "/assets/img/Tiere/Spinnen/iStock-1316756518.jpg",
+        "quelle": "istock.com / alex_1910"
+      },
+      {
+        "name": "Eichblatt-Radspinne",
+        "lat": "Araneus ceropegia",
+        "text": "Die ca. 15 mm große Eichblatt-Radspinne verdankt ihren Namen ihrer weißen Rückenzeichnung, welche stark an ein Eichblatt erinnert. Sie lebt in Süddeutschland und im Bergland auf sonnigen Wiesen sowie vegetationsarmen Lebensräumen. Bei drohender Gefahr seilt sich die Eichblatt-Radspinne mithilfe eines Sicherheitsfadens zum Boden ab und läuft davon.",
+        "bild": "/assets/img/Tiere/Spinnen/Eichblatt-Radspinne_Mattea Wild.JPG",
+        "quelle": "Mattea Wild"
+      }
+    ]
+  },
+  {
+    "kategorie": "Wasservögel",
+    "art": [
+      {
+        "name": "Kolbenente",
+        "lat": "Netta rufina",
+        "text": "Kolbenenten sind recht große und massige Enten, insbesondere der große runde Kopf ist auffällig. Die Männchen haben einen korallenroten Schnabel und einen rostroten Kopf. Sie überwintern mittlerweile auch an Voralpenseen und ziehen nicht mehr ausschließlich in Mittelmeer- und Schwarzmeergebiete. Zum Brüten suchen sie sich schilfumstandene Gewässer, die ihre speziellen Nahrungswünsche erfüllen. Dazu gehören Wasserpflanzen wie Armleuchteralgen und Laichkräuter. ",
+        "bild": "/assets/img/Tiere/Wasservoegel/Kobenente2.jpeg",
+        "quelle": "Heiko Hörster"
+      },
+      {
+        "name": "Rohrammer",
+        "lat": "Emberiza schoeniclus",
+        "text": "Die Rohrammer bevorzugt zum Brüten große Schilfflächen, wie wir sie am Mindelsee finden. „Rohr“ ist ein altes Wort für Schilf. Weil sie Sperlingen ähnelt und der Gesang entsprechend klingt, gab die Rohrammer Anlass für die Redewendung „Der schimpft wie ein Rohrspatz!“. ",
+        "bild": "/assets/img/Tiere/Wasservoegel/Rohrammer_Maennchen_Pixabay_Theotherkev.jpg",
+        "quelle": "Pixabay_Theotherkev"
+      },
+      {
+        "name": "Löffelente",
+        "lat": "Anas clypeata",
+        "text": "Den Namen verdanken sie ihrem sehr breiten, löffelförmigen Schnabel. Löffelenten haben einen besonderen Trick, um aus dem Wasser das größtmögliche an Nahrung herauszufiltern. Sie nehmen Wasser in ihren breiten Schnabel auf und lassen es seitlich wieder herauslaufen. Die Schnabellamellen filtern dabei Plankton, Wasserflöhe, Insektenlarven, Kaulquappen und Laich heraus. ",
+        "bild": "/assets/img/Tiere/Wasservoegel/Loeffelente_Heiko_Hoerster.jpeg",
+        "quelle": "Heiko Hörster"
+      },
+      {
+        "name": "Tafelente",
+        "lat": "Aythya ferina",
+        "text": "„Schwänzchen in die Höh“: Bei der Nahrungssuche am Boden taucht sie nicht unter, sondern kippt - wie die meisten Enten und Schwäne auch - vorne über. Dies nennt man „Gründeln“. Die Männchen sind gut an ihrem braunen Kopf und den roten Augen erkennbar. Oft sind sie in Trupps unterwegs, in denen die männlichen Tiere überwiegen. Die Weibchen sind hingegen unauffällig graubraun, Brust, Hals und Scheitel sind dunkler bräunlich. ",
+        "bild": "/assets/img/Tiere/Wasservoegel/Tafelente_Heiko_Hoerster.jpeg",
+        "quelle": "Heiko Hörster"
+      },
+      {
+        "name": "Haubentaucher",
+        "lat": "Podiceps cristatus",
+        "text": "Dies ist womöglich der charakteristischste Wasservogel des Mindelsees. Besonders auffällig ist seine Balz. Auf freier Wasserfläche – und damit hervorragend zu beobachten – wird zur Balz mit gespreizter Federhaube heftig mit dem Kopf geschüttelt. Zusätzlich paddeln die Tiere so stark mit den Füßen, dass sie fast senkrecht voreinander im Wasser stehen.",
+        "bild": "/assets/img/Tiere/Wasservoegel/Haubentaucher_Heiko_Hoerster.jpeg",
+        "quelle": "Heiko Hörster"
+      },
+      {
+        "name": "Zwergdommel",
+        "lat": "Ixobrychus minutus",
+        "text": "Die Zwergdommel ist die kleinste europäische Reiherart. Sie bewohnt Schilfflächen und vegetationsreiche Teiche und Gräben. Dabei ist sie meist versteckt und lässt sich nur mit viel Glück beobachten, wenn sie mit raschen Flügelschlägen aus dem Schilf auffliegt. Bei der Nahrungssuche klettert sie auf einen Ast oder Halm nah am Wasser, von dem aus sie nach Beute Ausschau hält. ",
+        "bild": "/assets/img/Tiere/Wasservoegel/BUNDBW-007809_Zwergdommel.JPG",
+        "quelle": "BUND BW"
+      }
+    ]
+  }
+]

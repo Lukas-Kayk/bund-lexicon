@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>BUND-Lexikon · Impressum</title>
+  <base href="/"/>
+  <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+  <link href="assets/css/styles.css" rel="stylesheet"/>
+</head>
+<body>
+
+  <!-- ===== Header (same as kategorien.html) ===== -->
+  <header class="site-header">
+    <div aria-label="Site navigation" class="container header-inner" role="navigation">
+
+      <!-- Brand / Logo -->
+      <a class="brand" href="index.html">
+        <span aria-hidden="true" class="brand-badge">
+          <svg aria-hidden="true" fill="none" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 10.5C4 7.462 6.462 5 9.5 5h5A5.5 5.5 0 0 1 20 10.5v3A5.5 5.5 0 0 1 14.5 19h-5A5.5 5.5 0 0 1 4 13.5v-3Z" fill="white"></path>
+          </svg>
+        </span>
+        <span class="brand-title">BUND-Lexikon</span>
+      </a>
+
+      <div class="spacer"></div>
+
+      <!-- Navigation buttons -->
+      <nav aria-label="Navigation" class="toolbar">
+        <!-- Back button -->
+        <a aria-label="Back" class="icon-btn" href="javascript:history.back()" id="back-btn">
+          <svg aria-hidden="true" fill="none" height="22" viewBox="0 0 24 24" width="22" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15 18l-6-6 6-6" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+          </svg>
+        </a>
+
+        <!-- Home button -->
+        <a aria-label="Home" class="icon-btn" href="kategorien.html">
+          <svg aria-hidden="true" fill="none" height="22" viewBox="0 0 24 24" width="22" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 10.5l9-7 9 7V20a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-4H9v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-9.5Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+          </svg>
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== Main content ===== -->
+  <main class="container" id="main">
+    <div class="page-heading">
+      <h1>Impressum</h1>
+      <span class="page-sub">Rechtliche Hinweise</span>
+    </div>
+
+    <!-- Legal / Project information -->
+    <article class="card">
+      <p>Die grafische Benutzeroberfläche (GUI) sowie die zugehörigen Funktionen wurden von mir (Lukas Kaczmarczyk) im Rahmen des Bachelor-Projekts <em>MI-Projekt</em> bei Carsten Lecon an der Hochschule Aalen erstellt.</p>
+      <p>Als Orientierung diente mir eine frühere, inzwischen veraltete Version der GUI von Annika Stürzl, die ich nicht direkt übernommen, sondern lediglich als Referenzbaustein genutzt habe, um den Aufbau und die Struktur meines eigenen Konzepts zu gestalten.</p>
+      <p>Mit Unterstützung der Stiftung Naturschutzfonds, gefördert aus zweckgebundenen Erträgen der Glücksspirale.</p>
+    </article>
+
+    <!-- Footer with back to categories -->
+    <footer>
+      <a aria-label="Back to categories" class="link-btn" href="kategorien.html">
+        <svg aria-hidden="true" fill="none" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M3 10.5l9-7 9 7V20a2 2 0 0 1-2 2h-4a2 2 0 0 1-2-2v-4H9v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-9.5Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+        </svg>
+        <span>Zurück zur Übersicht</span>
+      </a>
+    </footer>
+  </main>
+
+  <!-- ===== Scripts ===== -->
+  <script>
+    // Hide back button if there is no referrer (same behavior as categories page)
+    document.addEventListener('DOMContentLoaded', () => {
+      const btn = document.getElementById('back-btn');
+      try {
+        const hasQuery = new URL(window.location.href).search.length > 0;
+        if (!document.referrer && !hasQuery) btn?.classList.add('hidden');
+      } catch { /* noop */ }
+    });
+  </script>
+
+</body>
+</html>

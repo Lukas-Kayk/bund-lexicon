@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Flaschen-Stäubling",
+    "lat": "Lycoperdon perlatum",
+    "text": "Zwischen Juni und November ist der Flaschen-Stäubling öfters in Gruppen auf den Böden von Laub- und Nadelwäldern zu finden. Dort zersetzt der Pilz totes organisches Material. Er ist vor allem durch die Form einer umgedrehten Flasche und durch seine feinen Warzen erkennbar. Sobald der Stäubling reif ist, reißt sich der Pilz am Scheitel auf und erzeugt bei Berührung olivbräunliche Sporenwolken. Nicht ohne Grund heißen diese Pilze auf Englisch Puffballs.",
+    "bild": "/assets/img/Pilze/_Flaschen-Staeubling_Markus Rast.JPG",
+    "quelle": "Markus Rast"
+  },
+  {
+    "name": "Gemeiner Spaltblättling",
+    "lat": "Schizophyllum commune",
+    "text": "Der Gemeine Spaltblättling ist wahrscheinlich der am weitesten verbreitete Großpilz der Welt. Der trocken- und hitzeresistente Holzbewohner kommt in Mitteleuropa nicht nur in allen Waldtypen vor, sondern ist auch in von Menschen beeinflussten Lebensräumen wie Straßenrändern und Gärten zu finden. Durch seine einzigartigen, gespaltenen Lamellen auf der Unterseite gibt es in Europa keine Verwechslungsgefahr mit anderen Pilzen. Außerdem findet man den Gemeinen Spaltblättling selten allein und er ist gelegentlich auf Kräuterstängeln, verkohltem Holz oder Knochen zu finden. \n Achtung! Das Einatmen von dem Sporenpulver kann bei immungeschwächten Personen gesundheitsschädliche Auswirkungen haben.",
+    "bild": "/assets/img/Pilze/_Gemeiner_Spaltblaettling_Miriam Nass.JPG",
+    "quelle": "Miriam Nass"
+  },
+  {
+    "name": "Kammförmiger Keulenpilz",
+    "lat": "Clavulina coralloides",
+    "text": "Der Kammförmige Keulenpilz bevorzugt frische, mäßig nährstoffreiche Böden und ist eine häufige Art in Nadel- und Laubwäldern. Der auch als Kammkoralle bezeichnete weiße Pilz wächst auf dem Boden und bildet vorwiegend Symbiosen mit Fichten, gefolgt von Rotbuchen. Seltener findet man ihn auch bei Tannen, Eichen, Hainbuchen oder Kiefern. Die bis zu 8 cm hohen Fruchtkörper erscheinen zwischen August und November in Nadel- oder Laubstreu. ",
+    "bild": "/assets/img/Pilze/_Kammfoermiger_Keulenpilz_Irene Warmuth.jpg",
+    "quelle": "Irene Warmuth"
+  },
+  {
+    "name": "Schopftintling",
+    "lat": "Coprinus comatus",
+    "text": "Der Fruchtkörper des Schopftintlings ist zwischen April und November ein häufig zu findender Saprobiont (Zersetzer). Obwohl er meistens an Wegesrändern und auf nährstoffreichen Wiesen vorkommt, ist er auch in Städten auf gedüngten Rasenflächen nicht selten. Dieser Pilz und seine Verwandten aus der Gattung der Tintlinge zeichnen sich besonders dadurch aus, dass die Lamellen und der Hut sich innerhalb von wenigen Stunden selbst verdauen, wenn sie reif sind. Diese Selbstauflösung von abgestorbenen Zellen zerläuft zu einer tintenartigen Flüssigkeit, welche früher tatsächlich von Menschen als Tinte verwendet wurde. Auf diese einzigartige Weise verbreiten Tintlinge ihre Sporen.",
+    "bild": "/assets/img/Pilze/_Schopftintling_Irene Warmuth.jpg",
+    "quelle": "Irene Warmuth"
+  },
+  {
+    "name": "Krause Glucke",
+    "lat": "Sparassis crispa",
+    "text": "Die zwar unschuldig aussehende Krause Glucke, die gewisse äußerliche Ähnlichkeiten mit einem Badeschwamm hat, ist tatsächlich eine parasitische Pilzart. Der Pilz ist am Stammgrund von Nadelbäumen zu finden, wo er durch Verletzungen der Wurzeln in dessen Kernholz eindringt und Cellulose abbaut. Am häufigsten ist der bis zu 5kg schwere Fruchtkörper im September und Oktober zu beobachten. Als Wirtsbaum bevorzugt die Krause Glucke vor allem die Wald-Kiefer, aber ist auch vereinzelnd bei Lärchen, Fichten und Douglasien zu finden. ",
+    "bild": "/assets/img/Pilze/_Krause_Glucke_Markus Rast.JPG",
+    "quelle": "Markus Rast"
+  },
+  {
+    "name": "Anhängsel-Röhrling",
+    "lat": "Butyriboletus appendiculatus",
+    "text": "Der gefährdete Anhängsel-Röhrling kommt vor allem unter Buchen und Eichen in Laubwäldern mit kalkreichen Böden vor. Der wärmeliebende Symbiosepilz ist zwischen August und Oktober zu finden und hat einen Doppelgänger, den Falschen Anhängsel-Röhrling. Dieser kommt nur in Nadelwäldern vor und wird im Vergleich zum Anhängsel-Röhrling im Schnitt nicht bläulich verfärbend. Die Art hat seinen Namen durch einen Stielfortsatz (Anhängsel), der sich in den Boden eingesenkt an der Stielbasis befindet.  ",
+    "bild": "/assets/img/Pilze/_Anhaengsel-Roehrling_Uwe Winkler.JPG",
+    "quelle": "Uwe Winkler"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Lebensräume",
+    "bild": "/assets/img/Startseite/Lebensraeume/Lebensraeume.jpg"
+  },
+  {
+    "name": "Tiere",
+    "bild": "/assets/img/Startseite/Tiere/Saeugetiere.jpg",
+    "kategorie": [
+      {
+        "bezeichnung": "Amphibien",
+        "bild": "/assets/img/Startseite/Tiere/Amphibien.jpg"
+      },
+      {
+        "bezeichnung": "Fische",
+        "bild": "/assets/img/Startseite/Tiere/Fische.jpg"
+      },
+      {
+        "bezeichnung": "Fledermäuse",
+        "bild": "/assets/img/Startseite/Tiere/Fledermaeuse.jpg"
+      },
+      {
+        "bezeichnung": "Heuschrecken",
+        "bild": "/assets/img/Startseite/Tiere/Heuschrecken_Gemeiner Grashuepfer_Juergen Fischer.jpg"
+      },
+      {
+        "bezeichnung": "Käfer",
+        "bild": "/assets/img/Startseite/Tiere/Kaefer.jpg"
+      },
+      {
+        "bezeichnung": "Libellen",
+        "bild": "/assets/img/Startseite/Tiere/Libellen_Kleine Koenigslibelle_Manuel Fiebrich.JPG"
+      },
+      {
+        "bezeichnung": "Reptilien",
+        "bild": "/assets/img/Startseite/Tiere/Reptilien.jpg"
+      },
+      {
+        "bezeichnung": "Säugetiere",
+        "bild": "/assets/img/Startseite/Tiere/Saeugetiere.jpg"
+      },
+      {
+        "bezeichnung": "Schmetterlinge",
+        "bild": "/assets/img/Startseite/Tiere/Schmetterlinge_Großes Ochsenauge_2008_Markus_Koch.JPG"
+      },
+      {
+        "bezeichnung": "Schnecken",
+        "bild": "/assets/img/Startseite/Tiere/Schnecken_Vitrea_contracta_IMG_4393_copyright_Ira_Richling.jpg"
+      },
+      {
+        "bezeichnung": "Spinnen",
+        "bild": "/assets/img/Startseite/Tiere/Spinnen.JPG"
+      },
+      {
+        "bezeichnung": "Wasservögel",
+        "bild": "/assets/img/Startseite/Tiere/Voegel_Haubentaucher_Heiko_Hoerster.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Pflanzen",
+    "bild": "/assets/img/Startseite/Pflanzen/Graeser_Wollgras_Heidi Witzmann.JPG",
+    "kategorie": [
+      {
+        "bezeichnung": "Bäume",
+        "bild": "/assets/img/Startseite/Pflanzen/Baeume_Faulbaum_2_Maria_Gleichmann.jpeg"
+      },
+      {
+        "bezeichnung": "Farne",
+        "bild": "/assets/img/Startseite/Pflanzen/Farne_Echter_Wurmfarn_Irene_Warmuth.JPG"
+      },
+      {
+        "bezeichnung": "Gräser",
+        "bild": "/assets/img/Startseite/Pflanzen/Graeser_Wollgras_Heidi Witzmann.JPG"
+      },
+      {
+        "bezeichnung": "Moose",
+        "bild": "/assets/img/Startseite/Pflanzen/Moose_Spitzblaettriges Schoenschnabelmoos_Miriam Nass.JPG"
+      },
+      {
+        "bezeichnung": "Orchideen",
+        "bild": "/assets/img/Startseite/Pflanzen/Orchideen_Sumpf stendelwurz_Monitoringbericht_2016.JPG"
+      },
+      {
+        "bezeichnung": "Sträucher",
+        "bild": "/assets/img/Startseite/Pflanzen/Straeucher_Roter_Hartriegel_Warmuth.JPG"
+      }
+    ]
+  },
+  {
+    "name": "Pilze",
+    "bild": "/assets/img/Startseite/Pilze/Pilze__Gemeiner_Spaltblaettling_Miriam Nass.JPG"
+  }
+]

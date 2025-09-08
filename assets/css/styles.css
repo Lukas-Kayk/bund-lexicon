@@ -1,0 +1,265 @@
+/* =========================================================
+   BUND-Lexikon · Global Styles (modern)
+   - Normalization & tokens
+   - Base components (header, cards, buttons)
+   - Utilities
+   - Page-specific layouts (categories, info, index)
+   ========================================================= */
+
+/* ========== 1) Reset / Base ========== */
+*, *::before, *::after { box-sizing: border-box; }
+html:focus-within { scroll-behavior: smooth; }
+html, body { height: 100%; }
+body {
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+}
+img, svg, video, canvas { display: block; height: auto; max-width: 100%; }
+button, input, select, textarea { font: inherit; }
+
+/* ========== 2) Design Tokens ========== */
+:root{
+  --bg: #0b1f12;
+  --bg-2: #0f3d23;
+  --surface: #ffffff;
+  --surface-2: #f4f6f4;
+  --text: #0d1b0f;
+  --muted: #4b6756;
+  --brand: #39a845;
+  --brand-strong: #2b8c39;
+  --ring: 0 0 0 3px rgba(57,168,69,.25);
+  --radius: 14px;
+  --shadow-1: 0 1px 2px rgba(0,0,0,.06), 0 8px 24px rgba(0,0,0,.08);
+  --shadow-2: 0 2px 8px rgba(0,0,0,.08), 0 18px 40px rgba(0,0,0,.12);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --surface: #0f1411;
+    --surface-2: #0c110e;
+    --text: #e6f0ea;
+    --muted: #92a99a;
+    --shadow-1: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.35);
+    --shadow-2: 0 2px 8px rgba(0,0,0,.35), 0 18px 40px rgba(0,0,0,.45);
+  }
+}
+
+/* ========== 3) Base Document Styles ========== */
+body{
+  background: linear-gradient(135deg, var(--bg), var(--bg-2)) fixed;
+  color: var(--text);
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, Noto Sans, "Apple Color Emoji","Segoe UI Emoji";
+}
+
+/* Utilities */
+.container { max-width: 1200px; margin-inline: auto; padding: clamp(16px, 2.5vw, 32px); }
+.spacer { flex: 1; }
+.sr-only {
+  border: 0;
+  clip: rect(0,0,0,0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+.hidden { display: none !important; }
+
+/* ========== 4) Header ========== */
+header.site-header{
+  backdrop-filter: saturate(140%) blur(8px);
+  background: color-mix(in oklab, var(--surface) 80%, transparent);
+  border-bottom: 1px solid color-mix(in oklab, var(--muted) 20%, transparent);
+  position: sticky;
+  top: 0;
+  z-index: 30;
+}
+.header-inner { align-items: center; display: flex; gap: 12px; padding: 12px 0; }
+.brand { align-items: center; color: inherit; display: flex; gap: .65rem; text-decoration: none; }
+.brand-badge{
+  background: radial-gradient(120% 120% at 30% 20%, #5ad167 0%, var(--brand) 40%, var(--brand-strong) 100%);
+  border-radius: 10px;
+  box-shadow: var(--shadow-1);
+  display: grid;
+  height: 36px;
+  place-items: center;
+  width: 36px;
+}
+.brand-badge svg { filter: drop-shadow(0 1px 2px rgba(0,0,0,.25)); }
+.brand-title { font-weight: 700; letter-spacing: .2px; }
+.toolbar { display: flex; gap: 8px; }
+.icon-btn{
+  background: var(--surface);
+  border: 1px solid color-mix(in oklab, var(--muted) 18%, transparent);
+  border-radius: 999px;
+  box-shadow: var(--shadow-1);
+  color: inherit;
+  display: grid;
+  height: 42px;
+  place-items: center;
+  text-decoration: none;
+  transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
+  width: 42px;
+}
+.icon-btn:hover { box-shadow: var(--shadow-2); transform: translateY(-1px); }
+.icon-btn:active { transform: translateY(0); }
+.icon-btn:focus-visible { box-shadow: var(--shadow-2), var(--ring); outline: none; }
+
+/* ========== 5) Page Headings / Typography ========== */
+.page-heading{
+  align-items: end;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: clamp(16px,3.5vw,40px) 0 8px;
+}
+.page-heading h1 { font-size: clamp(1.6rem, 2.4vw, 2rem); margin: 0; }
+.page-sub { color: var(--muted); font-size: .95rem; }
+
+/* ========== 6) Cards ========== */
+.card{
+  background: var(--surface);
+  border: 1px solid color-mix(in oklab, var(--muted) 16%, transparent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-1);
+  padding: clamp(16px,2.5vw,24px);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .2s ease;
+}
+.card:hover { border-color: color-mix(in oklab, var(--brand) 40%, transparent); box-shadow: var(--shadow-2); transform: translateY(-2px); }
+.card:focus-within { box-shadow: var(--shadow-2), var(--ring); }
+.card .thumb { aspect-ratio: 4/3; background: var(--surface-2); border-radius: 12px; max-width: 220px; overflow: hidden; width: 100%; }
+.card .thumb > img { height: 100%; object-fit: cover; width: 100%; }
+.card .title { font-weight: 600; }
+
+/* Keep links inside cards neutral (no default blue/purple) */
+.card a,
+.card a:link,
+.card a:visited,
+.card a:hover,
+.card a:active {
+  color: inherit;
+  display: contents; /* whole card clickable when wrapping elements */
+  text-decoration: none;
+}
+
+/* ========== 7) Buttons / Link-like Buttons ========== */
+.link-btn{
+  --alpha: 0.08;
+  align-items: center;
+  background: color-mix(in oklab, var(--brand) var(--alpha), var(--surface));
+  border: 1px solid color-mix(in oklab, var(--muted) 16%, transparent);
+  border-radius: 999px;
+  box-shadow: var(--shadow-1);
+  color: inherit;
+  display: inline-flex;
+  gap: 10px;
+  padding: 10px 14px;
+  text-decoration: none;
+}
+.link-btn:hover { box-shadow: var(--shadow-2); }
+.link-btn:focus-visible { box-shadow: var(--shadow-2), var(--ring); outline: none; }
+
+/* Small helper */
+.muted { color: var(--muted); font-size: .95rem; }
+
+/* ========== 8) Page: Kategorien ========== */
+.card-grid{
+  display: grid;
+  gap: clamp(14px, 2vw, 20px);
+  grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr));
+}
+
+/* Center the Impressum action placed under the grid */
+main.container > footer,
+#category-grid + footer {
+  align-items: center;
+  display: flex !important;
+  justify-content: center !important;
+  margin-top: 32px; /* tweak spacing as needed */
+  width: 100%;
+}
+
+/* If the Impressum link sits as an <a> inside #feld-buttons */
+#feld-buttons a[href$="impressum.html"]{
+  display: block;
+  margin: 40px auto 0; /* adjust top spacing here */
+  width: fit-content;
+}
+
+/* Visual style for the Impressum button element */
+#b_impressum{
+  all: unset;
+  align-items: center;
+  background: color-mix(in oklab, var(--brand) 8%, var(--surface));
+  border: 1px solid color-mix(in oklab, var(--muted) 16%, transparent);
+  border-radius: 999px;
+  box-shadow: var(--shadow-1);
+  cursor: pointer;
+  display: inline-flex;
+  gap: 8px;
+  padding: 10px 16px;
+}
+#b_impressum:hover { box-shadow: var(--shadow-2); }
+#b_impressum:focus-visible { box-shadow: var(--shadow-2), var(--ring); outline: none; }
+
+/* ========== 9) Page: Info ========== */
+.content { display: grid; gap: clamp(16px,2vw,24px); grid-template-columns: 1.1fr .9fr; }
+@media (max-width:900px){ .content { grid-template-columns: 1fr; } }
+
+.prose p { margin: 0 0 1rem; }
+.title-block h3 { font-weight: 700; margin: .2rem 0; }
+.title-block h4 { color: var(--muted); font-weight: 600; margin: 0; }
+
+figure.media { margin: 0; }
+figure.media .thumb { aspect-ratio: 4/3; background: var(--surface-2); border-radius: 12px; overflow: hidden; width: 100%; }
+figure.media .thumb > img { height: 100%; object-fit: cover; width: 100%; }
+figure.media figcaption { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+
+/* Space between body copy and actions */
+.prose #infoText { display: block; margin-bottom: 12px; }
+
+/* Global Impressum link under the section */
+.page-footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+/* Hide legacy article-internal footer to avoid duplicates */
+.prose footer { display: none; }
+
+/* ========== 10) Page: Index (Landing) ========== */
+.hero { align-items: center; display: grid; gap: clamp(18px,3vw,32px); grid-template-columns: 1.1fr .9fr; margin-top: clamp(12px,4vw,48px); }
+@media (max-width:950px){ .hero { grid-template-columns: 1fr; } }
+
+/* Single-hero centered layout */
+.hero.single{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 70vh;
+}
+.hero.single .card { max-width: 600px; text-align: center; width: 100%; }
+
+/* Strong CTA on landing */
+.hero.single .cta{
+  align-items: center;
+  background: var(--brand);
+  border: none;
+  border-radius: 999px;
+  box-shadow: var(--shadow-1);
+  color: #fff;
+  display: inline-flex;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 14px 20px;
+  text-decoration: none;
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.hero.single .cta:hover { box-shadow: var(--shadow-2); transform: translateY(-2px); }
+.hero.single .cta:focus-visible { box-shadow: var(--shadow-2), var(--ring); outline: none; }

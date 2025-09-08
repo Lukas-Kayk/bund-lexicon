@@ -1,0 +1,291 @@
+[
+  {
+    "kategorie": "Bäume",
+    "art": [
+      {
+        "name": "Rotbuche",
+        "lat": "Fagus sylvatica",
+        "text": "Die Rotbuche ist ein in Europa weit verbreiteter heimischer Laubbaum. Von den Talböden abgesehen, ist die Waldvegetation des Mindelseegebietes durch Buchenwälder bestimmt. Die Rinde ist glatt, grau und manchmal ein wenig aufgeraut. Die Blätter sind oval und am Rande wellig mit langen Wimperhaaren.",
+        "bild": "/assets/img/Pflanzen/Baeume/Rotbuche_3_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Gemeine Esche",
+        "lat": "Fraxinus excelsior",
+        "text": "Nach der Buche ist die Gemeine Esche die im Mindelseegebiet häufigste Baumart. Neben rein männlichen und rein weiblichen Bäumen kommen auch zwittrige Exemplare vor, welche Blüten beider Geschlechter entwickeln. Die hohe Pollenmenge löst bei Allergikern häufig starke Reaktionen aus. Die Frucht der Esche ist aus botanischer Sicht eine geflügelte Nuss. ",
+        "bild": "/assets/img/Pflanzen/Baeume/Esche_4_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Stiel-Eiche",
+        "lat": "Quercus robur",
+        "text": "Die Stiel-Eiche ist benannt nach ihren auf einem 4-8 cm langen Stiel sitzenden Früchten (den Eicheln). Dank ihres Pfahlwurzelsystems ist sie gegenüber Stürmen sehr standhaft. Der fast überall in Europa verbreitete Baum kann bis zu 1000 Jahre alt werden.",
+        "bild": "/assets/img/Pflanzen/Baeume/Stieleiche_4_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Faulbaum",
+        "lat": "Frangula alnus",
+        "text": "Der Faulbaum fühlt sich in feuchten Wäldern, Hecken und Mooren mit sauren Böden wohl. Diese Voraussetzungen finden sich auch am Mindelsee. Er wird nur bis zu 5 Meter hoch und besitzt auffällig rote Beeren, die sich mit der Reifung schwarz verfärben. Seinen Namen verdankt er seiner nach Fäulnis riechenden Rinde. Da sich der Faulbaum zügig als Pionier auf Wiesen verbreitet, muss er im Naturschutzgebiet in seiner Ausbreitung durch Landschaftspflegemaßnahmen zurückgehalten werden.",
+        "bild": "/assets/img/Pflanzen/Baeume/Faulbaum_2_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Hänge-Birke",
+        "lat": "Betula pendula",
+        "text": "Die auffällige Rinde der Hänge-Birke ist am Grund des Stammes breitrissig und in rechteckige Platten zerlegt, weiter oberhalb glatt und silberweiß mit teils grauen Schuppen. Die helle Färbung schützt den Baum vermutlich vor Schäden durch starke Sonneneinstrahlung. Die herunterhängenden Zweige der Hänge-Birke lassen sich auch im Osten des Mindelsees auf der malerischen Birkenallee beobachten. ",
+        "bild": "/assets/img/Pflanzen/Baeume/Haengebirke_3_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann "
+      },
+      {
+        "name": "Zitter-Pappel",
+        "lat": "Populus tremula",
+        "text": "Die Zitter-Pappel oder auch Espe ist die in Europa am weitesten verbreitete Pappelart und lässt sich von anderen Bäumen ihrer Art an ihren meist rundlich bis ovalen Blättern mit gewelltem Rand unterscheiden. Die abgeflachten Blattstiele ermöglichen die typischen zitternden Bewegungen im Wind. Sie ‚zittert wie Espenlaub‘.",
+        "bild": "/assets/img/Pflanzen/Baeume/Zitterpappel_3_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      }
+    ]
+  },
+  {
+    "kategorie": "Farne",
+    "art": [
+      {
+        "name": "Gewöhnlicher Dornfarn",
+        "lat": "Dryopteris carthusiana",
+        "text": "Dieser Farn kommt am Mindelsee sowohl im schattigen Wald als auch im Erlenbruchwald und Moorrandbereich häufig vor. Seine Wedel werden bis zu 90 cm lang. Er ähnelt dem Breitblättrigen Dornfarn, lässt sich jedoch anhand der Farbe der Schuppen unterscheiden. Diese sind hellbraun und haben keinen dunkelbraunen Mittelteil. Der Name Dryopteris carthusiana, auch Karthäuserfarn, leitet sich durch den Erstfundort an einem Kloster in Frankreich ab.",
+        "bild": "/assets/img/Pflanzen/Farne/Gewoehnlicher_Tuepfelfarn_2_Gerhard_Nitter.jpg",
+        "quelle": "Irene Warmuth"
+      },
+      {
+        "name": "Echter Wurmfarn",
+        "lat": "Dryopteris filix-mas",
+        "text": "Der echte Wurmfarn ist ein sehr weit verbreiteter Waldfarn. Seine Wedel werden bis zu 1 m hoch und sind im Gegensatz zum Waldfrauenfarn robuster zerteilt. Namensgebend ist die damalige Verwendung seiner giftigen Wurzel als Arznei gegen Wurmbefall.",
+        "bild": "/assets/img/Pflanzen/Farne/Echter_Wurmfarn_Irene_Warmuth.JPG",
+        "quelle": "Irene Warmuth"
+      },
+      {
+        "name": "Eichenfarn",
+        "lat": "Gymnocarpium dryopteris",
+        "text": "Wer oft im Wald wandert kennt den flach wachsende Eichenfarn. Er ist meist dreifach gefiedert, wobei seine Blattspreiten den Eichenblättern ähneln. Im Gegensatz zu anderen Farnarten sind die Farnwedel sehr weich. Durch ein unterirdisches Rhizom verfügt der Eichenfarn über die Fähigkeit sich vegetativ zu vermehren und sich flächendeckend über den Waldboden auszubreiten. Nicht selten kommt er in Laubwäldern mit saurem Boden vor.",
+        "bild": "/assets/img/Pflanzen/Farne/Eichenfarn_1_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Gewöhnlicher Tüpfelfarn",
+        "lat": "Polypodium vulgare",
+        "text": "Der wintergrüne Tüpfelfarn breitet sich durch Ausläufer teppichartig aus. Das unterirdisch kriechende Rhizom enthält Zucker, wodurch der Volksnamen „Engelsüß“ entstand. Farne besitzen anstelle von Blüten auf der Blattunterseite kleine Sori. Diese sind beim Tüpfelfarn durch ihre gelbe, tüpfelartige Gestalt besonders auffällig. Neben kalkfreien Felsspalten ist der Farn bei hoher Luftfeuchte auch als Epiphyt neben Moosen und Flechten auf Bäumen anzutreffen.",
+        "bild": "/assets/img/Pflanzen/Farne/Gewoehnlicher_Dornfarn_Irene_Warmuth.JPG",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Sumpf-Lappenfarn",
+        "lat": "Thelypteris palustris",
+        "text": "Der Sumpf-Lappenfarn bildet leuchtend grüne Horste aus, die sich an feuchten Standorten besonders gut entfalten. „Nasse Füße“ auf sauren, modrig-humosen Böden sind dementsprechend kein Problem. Insbesondere in lichtreichen bis beschatteten Wäldern und subalpinen Hochstaudenfluren fühlt er sich heimisch.",
+        "bild": "/assets/img/Pflanzen/Farne/Sumpf-Lappenfarn_2_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Zerbrechlicher Blasenfarn",
+        "lat": "Cystopteris fragilis",
+        "text": "Der Zerbrechliche Blasenfarn ist nach den blasenförmig gewölbten Blatthäutchen, die die Sori auf der Blattunterseite bedecken, benannt. Er ist kalkliebend und wächst vorwiegend in den Spalten feuchter Felsen sowie Steinschutthalden in Wäldern.",
+        "bild": "/assets/img/Pflanzen/Farne/Zerbrechlicher_Blasenfarn_2_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Lanzen-Schildfarn",
+        "lat": "Polystichum lonchitis",
+        "text": "Schildfarne zeichnen sich dadurch aus, dass die obersten Fiederabschnitte einen asymmetrischen Grund aufweisen. Für Schildfarne charakteristisch ist der asymmetrische Grund der obersten Fiederabschnitte sowie die namensgebend geformten Indusien (Blatthäutchen) auf der Blattunterseite. Der Lanzen-Schildfarn fällt darunter durch seine nur einfache Fiederung auf. Ihn findet man hauptsächlich in Kalkgebieten.",
+        "bild": "/assets/img/Pflanzen/Farne/Lanzen-Schildfarn_1_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      }
+    ]
+  },
+  {
+    "kategorie": "Gräser",
+    "art": [
+      {
+        "name": "Frühlings-Segge",
+        "lat": "Carex caryophyllea",
+        "text": "Die Frühlings-Segge blüht mit ihren gelben Staubblättern schon relativ früh im Jahr (März bis April), woher sie ihren Namen hat. Die weiblichen Ähren sitzen direkt unterhalb der männlichen Ähre, die an der Spitze der Halme sitzen. An den dreikantigen Früchten hängt ein kleines fettreiche Anhängsel (Elaiosom), welches Ameisen anzieht. Diese verbreiten die Samen (Myrmekochorie). Die Segge gedeiht am besten auf feuchten, schwach sauren, nährstoffarmen Böden. An schattigen Standorten im Wald wird die Frühlings-Segge über 40 cm hoch, während sie an trockenen Standorten häufig nur etwa 5 cm groß ist.",
+        "bild": "/assets/img/Pflanzen/Graeser/Fruhlingssegge_Heidi Witzmann.JPG",
+        "quelle": "Heidi Witzmann"
+      },
+      {
+        "name": "Sumpf-Segge",
+        "lat": "Carex acutiformis",
+        "text": "Dieses Großseggenriedgras besitzt verschiedenartige Blüten je nach Geschlecht. Oben am Halm sitzen meist zwei bis drei männliche Ähren (Blütenstände), welche relativ dick sind. Die weiblichen, vielblütigen Ähren weiter unten am Halm sind eher länger und schmaler mit roten bis schwarzbraunen Spelzen. Ein gutes Merkmal ist der dreikantige, messerscharfe Stängel der Sumpf-Segge, weshalb sie auch Scharfkantige Segge genannt wird. Außerdem besitzt sie purpurrote Blattscheiden. Die Art kommt auf mäßig nassen, schwach sauren Standorten wie Bachufern oder Nasswiesen vor und bildet dort dichte Horste.",
+        "bild": "/assets/img/Pflanzen/Graeser/Sumpf-Segge_1_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Steife Segge",
+        "lat": "Carex elata",
+        "text": "Die Steife Segge kann bis zu 120 cm hoch (elatus = hoch) werden. Sie besitzt graugrüne, knickrandige bis 6 mm breite Blätter. Knickrandig bedeutet, dass die Blätter in Längsrichtung doppelt gefaltet sind, d.h. ein Kiel auf der Blattunterseite und zwei auf der Blattoberseite. Der schneidend scharfe Blattrand dient der Pflanze als Fraßschutz. Sie wächst gerne im Uferbereich auf dichten Bulten. Das sind Bodenerhebungen im Sumpfgebiet.",
+        "bild": "/assets/img/Pflanzen/Graeser/Steife_Segge_1_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Blaues Pfeifengras",
+        "lat": "Molinia coerulea",
+        "text": "Das Blaue Pfeifengras hat blaugrüne Blätter und blauviolette Ährchen auf einem steifen, fast knotenlosen Halm. Daher wurden die relativ harten Halme früher gerne zum Reinigen der Tabakpfeifen benutzt. Die Pflanze zeigt feuchte, stark saure, magere Standorte mit hohem Grundwasserspiegel an. Es ist Ordnungscharakterart der nach ihm benannten Feuchtwiesen-Gesellschaften (Molinietalia), welche besonders im Herbst aufgrund ihrer rotbraunen Farbe diese Wiesen (scheinbar) dominieren.",
+        "bild": "/assets/img/Pflanzen/Graeser/Blaues Pfeifengras_2_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Schmalblätriges Wollgras / Breitblättriges Wollgras",
+        "lat": "Eriophorum angustifolium / Eriophorum latifolium",
+        "text": "Das Schmalblättrige Wollgras hat seinen Namen von den wollig weißhaarigen Blüten. Allerdings kann diese „Wolle“ nicht verspinnt werden, sie wurde aber früher zusammen mit Wolle und Baumwolle zu Watte oder Filz verarbeitet und z.B. als Kissenfüllung der armen Leute verwendet. Die Pflanze kommt vor allem auf nassen, stark sauren Flächen vor, und gilt hierfür als Standortzeiger. Das Breitblättrige Wollgras hat im Gegensatz zum Schmalblättrigen Wollgras raue, borstige Stiele und breitere Blätter (4-8 mm). Es wächst besonders gerne auf kalk- und nährstoffreichen (Torf-)Böden und ist deshalb am Mindelsee die dominierende Wollgras-Art.",
+        "bild": "/assets/img/Pflanzen/Graeser/Wollgras_Heidi Witzmann.JPG",
+        "quelle": "Heidi Witzmann"
+      },
+      {
+        "name": "Waldsimse",
+        "lat": "Luzula sylvatica",
+        "text": "Prägnant für diese Art sind die verzweigten Blütenstände und die weißen, langen Wimpern an den Blatträndern, die durch Auflösung ebendieser Blattränder entstehen. Die Samen werden vor allem von Ameisen verbreitet, welche durch zuckerhaltige Anhängsel der Samen angezogen werden. Verbreitet ist die Wald-Hainsimse auf nassen, mäßig sauren Wald-Standorten mit hoher Luftfeuchtigkeit. ",
+        "bild": "/assets/img/Pflanzen/Graeser/Waldsimse_4_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      }
+    ]
+  },
+  {
+    "kategorie": "Moose",
+    "art": [
+      {
+        "name": "Echtes Zypressenschlafmoos",
+        "lat": "Hypnum cupressiforme",
+        "text": "Das Echte Zypressenschlafmoos ist vielerorts auf jeglichem Substrat zu finden und sehr häufig. Die niederliegenden kleinen Ästchen ähneln geflochtenen Zöpfen und wurden im Mittelalter als Kissen- und Matratzenfüllung verwendet, weswegen diese Moosart auch unter dem Namen Schlafmoos bekannt ist.",
+        "bild": "/assets/img/Pflanzen/Moose/Echtes Zypressenschlafmoos_Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Spitzblättriges Schönschnabelmoos",
+        "lat": "Eurhynchium striatum",
+        "text": "Das Spitzblättrige Schönschnabelmoos ist besonders durch die hell hervorgehobenen scharfen Spitzen zu erkennen.  Es bevorzugt nährstoffreiche, schattige Waldböden, ist aber auch auf Stammbasen sowie morschem Holz zu finden.",
+        "bild": "/assets/img/Pflanzen/Moose/Spitzblaettriges Schoenschnabelmoos_Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Schönes Widerton-/Frauenhaarmoos",
+        "lat": "Polytrichum formosum",
+        "text": "Das schöne Widertonmoos ist ein häufiges Waldbodenmoos. Es ist blaugrün gefärbt und bildet Moospolster in Form von Sternen. Bei näherer Betrachtung mit einer Lupe wird der regelmäßig gezähnte Blattrand sichtbar. Das Moos bildet zahlreiche Sporenkapseln aus, die zum Schutz mit einer haarigen Kapuze (Kalyptra) bedeckt sind.",
+        "bild": "/assets/img/Pflanzen/Moose/Schoenes Widerton Frauenhaarmoos _Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Fuchsschwanz-Bäumchenmoos",
+        "lat": "Thamnobryum alopecurum",
+        "text": "Das Fuchsschwanz-Bäumchenmoos liebt kalkreiche, feuchte und schattige Böden. Es ist olivgrün und die aufrecht stehenden Seitenästchen sind bäumchenförmig verzweigt. Mehrere Bäumchen sind über einen kriechenden Stängel miteinander verbunden und bilden eine Moospflanze. ",
+        "bild": "/assets/img/Pflanzen/Moose/Fuchsschwanz-Baeumchenmoos _Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Gewöhnliches Kratzmoos",
+        "lat": "Radula complanata",
+        "text": "Das zu den Lebermoosen gehörende Gewöhnliche Kratzmoos wächst bevorzugt auf der Borke von Laubbäumen und ist häufig in Wäldern zusammen mit dem Wassersackmoos (Frullania dilatata) anzutreffen. Die vorderseits sichtbaren runden Blättchen werden auch Oberlappen genannt, die viereckigen Blättchen unterseits Unterlappen.",
+        "bild": "/assets/img/Pflanzen/Moose/Gewoehnliches Kratzmoos_Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Großes Kranzmoos",
+        "lat": "Rhytidiadelphus triquetrus",
+        "text": "Das große Kranzmoos ist, wie der Name vermuten lässt, eines der größten heimischen Moose und wird bis heute für die Herstellung von Kränzen und Blumengestecken verwendet. In früheren Zeiten diente es zudem als Verpackungs- und Dämmmaterial. Das Bodenmoos ist in trockenen, kalkarmen Wäldern oft flächendeckend anzutreffen.",
+        "bild": "/assets/img/Pflanzen/Moose/Großes Kranzmoos_Miriam Nass.JPG",
+        "quelle": "Miriam Nass"
+      }
+    ]
+  },
+  {
+    "kategorie": "Orchideen",
+    "art": [
+      {
+        "name": "Fleischfarbenes Knabenkraut",
+        "lat": "Dactylorhiza incarnata",
+        "text": "Diese bis zu 60 cm große Orchideenart wurde in Deutschland zur Orchidee des Jahres 2015 gewählt. Es gibt zahlreiche und durchaus farbenfrohe Unterarten des Fleischfarbenen Knabenkrauts, welche sich teilweise nur geringfügig unterscheiden. Am Mindelsee kann man die auf der Roten Liste stehende Art fast überall auf ufernahen Flächen finden.",
+        "bild": "/assets/img/Pflanzen/Orchideen/Fleischfarbenes Knabenkraut - Verena Medinger.JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Glanzstendel oder Torf-Glanzkraut",
+        "lat": "Liparis loeselii",
+        "text": "Diese gelb-grün-blühende und eher unscheinbare Orchideenart reagiert sehr sensibel auf Habitatsveränderungen. So kommt es vor, dass die erfasste Anzahl von einem Jahr zum darauffolgenden Jahr stark fluktuiert. Nach der Blüte von Ende Mai bis Juli und der Fruchtreife der Samen im August zieht sich die Pflanze über den Winter wieder in die Sprossknolle zurück und überdauert so die kalte Jahreszeit.",
+        "bild": "/assets/img/Pflanzen/Orchideen/Torf-Glanzkraut_Nathalie Tent.JPG",
+        "quelle": "Nathalie Tent"
+      },
+      {
+        "name": "Kleines Knabenkraut",
+        "lat": "Anacamptis morio",
+        "text": "Das Kleine Knabenkraut bleibt mit oft 8 cm Höhe recht klein, kann aber auch bis zu 40 cm groß werden. Erkennungsmerkmal ist ein intensiv grüner Streifen auf der Innenseite der oberen Blütenblätter, die ansonsten variabel weiß, rosaviolett bis dunkelpurpur leuchten. Auch der Blütensporn, welcher den Nektar enthält, kann in seiner Länge variabel sein.",
+        "bild": "/assets/img/Pflanzen/Orchideen/Orchis morio - Kleines Knabenkraut (2)_VM.JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Brand-Knabenkraut",
+        "lat": "Neotinea ustulata",
+        "text": "Diese Orchideenart ist durch das Bundesnaturschutzgesetz besonders geschützt (§ 44 BNatSchG). Das violett-blühende Brand-Knabenkraut gedeiht auf kalkreichen Magerwiesen sowie basenreichen Löß- und Lehmböden, welche am Mindelsee durch Pflegemaßnahmen wie den Abtransport von Mähgut und den Rückschnitt von Sträuchern erhalten werden. Der Name nimmt Bezug auf die purpurne bis schwarze Färbung des aufblühenden Blütenstandes.  ",
+        "bild": "/assets/img/Pflanzen/Orchideen/Brandknabenkraut_Verena_Medinger.JPG",
+        "quelle": "Verena Medinger"
+      },
+      {
+        "name": "Helm-Knabenkraut",
+        "lat": "Orchis militaris",
+        "text": "Das violett blühende Helm-Knabenkraut trägt an einem einzelnen Blütenstand bis zu 50 Einzelblüten. Die Blüten sind, wie bei fast allen Orchideen, zygomorph. Dies bedeutet, dass sie über nur eine Symmetrieebene (Spiegelsymmetrie) verfügen. Die Pflanze besitzt ebenfalls die für Orchideen typischen hodenförmigen Wurzelknollen, welche wohl auch namensgebend für die Familie der Orchideen sind (griechisch ὄρχις orchis ‚Hoden‘). ",
+        "bild": "/assets/img/Pflanzen/Orchideen/Helm Knabenkraut_monitoringbericht_2016.JPG",
+        "quelle": "Miriam Nass"
+      },
+      {
+        "name": "Sumpf-Stendelwurz",
+        "lat": "Epipactis palustris",
+        "text": "Die Sumpf-Stendelwurz findet sich am Mindelsee überall dort, wo die Moorböden langfristig von Quellwasser durchfeuchtet bleiben. Die weiß-rosafarbige Blüte besitzt ein bewegliches Gelenk. Dieses führt dazu, dass Insekten beim Herauskriechen aus der Blüte ein Pollenpaket auf den Rücken geklebt bekommen und dieses zur nächsten Blüte weitertransportieren können.",
+        "bild": "/assets/img/Pflanzen/Orchideen/Sumpf stendelwurz_Monitoringbericht_2016.JPG",
+        "quelle": "Miriam Nass"
+      }
+    ]
+  },
+  {
+    "kategorie": "Sträucher",
+    "art": [
+      {
+        "name": "Eingriffeliger Weißdorn",
+        "lat": "Crataegus monogyna",
+        "text": "An den jungen Trieben des Eingriffeligen Weißdorns befinden sich die charakteristischen Dornen als Fraßschutz. Diese tragen außerdem – durch die erschwerte Zugänglichkeit für Fressfeinde – zu einem geeigneten Brutplatz für Vögel bei. Auch spießt der Neuntöter häufig seine Nahrung daran auf.",
+        "bild": "/assets/img/Pflanzen/Straeucher/Eingriffeliger_Weißdorn_2_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Schlehe",
+        "lat": "Prunus spinosa",
+        "text": "Die kleine heimische Wildpflaume ist ein sogenanntes Pioniergehölz und gedeiht somit auch auf sehr kargen, rohen und trockenen Standorten. Ein weiterer Grund für die schnelle Ausbreitung sind die zahlreichen Wurzelausläufer, die immer wieder gebildet werden. Die sauren Früchte der Schlehe lassen sich nach dem ersten Frost im Herbst zur Zubereitung von Likör und Konfitüren verwenden.",
+        "bild": "/assets/img/Pflanzen/Straeucher/Schlehe_1_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Roter Hartriegel",
+        "lat": "Cornus sanguinea",
+        "text": "Der Rote Hartriegel hat seinen Namen von seinen rot leuchtenden Zweigen, die sich besonders in der tiefstehenden Herbstsonne zeigen. Wie viele weitere Sträucher dient diese Hartriegel-Art als Pollenspender für Schmetterlinge und Wildbienen und ist ein wichtiges Vogelnistgehölz.",
+        "bild": "/assets/img/Pflanzen/Straeucher/Roter_Hartriegel_Warmuth.JPG",
+        "quelle": "Irene Warmuth"
+      },
+      {
+        "name": "Gemeiner Schneeball",
+        "lat": "Viburnum opulus",
+        "text": "Die Blütenstände des Gemeinen Schneeballs teilen sich in die großen Randblüten und die wesentlich kleineren Innenblüten auf. Das Besondere daran ist, dass die äußeren Blütenblätter weder Staubblätter noch Fruchtknoten besitzen. Die sterilen Schaublüten haben somit die wichtige Funktion der Anlockung von Insekten.",
+        "bild": "/assets/img/Pflanzen/Straeucher/Gemeiner_Schneeball_3_Maria_Gleichmann.jpeg",
+        "quelle": "Maria Gleichmann"
+      },
+      {
+        "name": "Europäisches Pfaffenhütchen",
+        "lat": "Euonymus europaeus",
+        "text": "Ein weiterer Name des Europäischen Pfaffenhütchens ist „Spindelstrauch“, denn früher wurden unter anderem Spindeln, Orgelpfeifen und Stricknadeln aus dem zähen Holz hergestellt. Der Verzehr von Samen führt bei Menschen jedoch zu Bauchschmerzen und Übelkeit. Übrigens: Das Pfaffenhütchen wurde 2006 zur Giftpflanze des Jahres gewählt.",
+        "bild": "/assets/img/Pflanzen/Straeucher/Europaeisches_Pfaffenhuetchen__Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      },
+      {
+        "name": "Gemeine Hasel ",
+        "lat": "Corylus avellana",
+        "text": "Die Hasel ist ein sommergrüner, vom Grund an meist vielstämmiger, 2-6 m hoher Strauch. Bereits im Februar entlassen die männlichen Blüten („Kätzchen“) beim geringsten Windhauch gelbe Wölkchen aus Blütenstaub. Die im Handel erhältlichen Haselnüsse stammen jedoch meist von der südosteuropäischen Lamberts-Hasel (Corylus maxima), die sich bei uns nur in Gärten und Parkanlagen findet. ",
+        "bild": "/assets/img/Pflanzen/Straeucher/Gemeine_Hasel_2_Gerhard_Nitter.jpg",
+        "quelle": "Gerhard Nitter"
+      }
+    ]
+  }
+]
